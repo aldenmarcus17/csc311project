@@ -1,0 +1,64 @@
+{
+ "ease_median": 5.0,
+ "pay_median": 100.0,
+ "pay_log_mean": 4.308234438779425,
+ "pay_log_std": 1.8975243454910642,
+ "ease_mean": 5.395214521452146,
+ "ease_std": 2.3222232586457725,
+ "keywords": {
+  "food": {
+   "hotdog": "hot\\s*-?\\s*dog",
+   "popcorn": "pop\\s*corn",
+   "beer": "\\bbeers?\\b|\\balcohol\\b",
+   "soda": "\\bsoda|\\bcoke\\b|\\bcola\\b|\\bpepsi\\b|\\bsprite\\b|soft drink|\\bpop\\b(?!\\s*corn)",
+   "pizza": "pizza",
+   "fries": "\\bfries\\b|french fr|\\bfires\\b",
+   "chips": "\\bchips\\b|crisps",
+   "nachos": "nacho",
+   "burger": "burger|sliders?",
+   "wings": "\\bwings?\\b",
+   "chicken": "chicken(?!\\s*wing)",
+   "peanuts": "peanut|cracker\\s*jack|\\bnuts\\b",
+   "sunflower": "sunflower|\\bseeds\\b",
+   "pretzel": "pretzel",
+   "water": "\\bwater\\b",
+   "sports_drink": "gatorade|gaderade|powerade|sports? drink|energy drink|electrolyte",
+   "poutine": "poutine",
+   "sandwich": "sandwich",
+   "fish": "\\bfish\\b",
+   "taco": "\\btacos?\\b",
+   "bbq": "bbq|barbecue|\\bribs\\b|skewer|kebab",
+   "sausage": "sausage|bratwurst",
+   "snacks": "snack|fast food|pub food|finger food|junk food",
+   "none": "\\bn/?a\\b|\\bnone\\b|\\bnothing\\b|unsure|\\bidk\\b|don.?t know|no particular"
+  },
+  "colour": {
+   "red": "\\bred\\b|maroon|crimson",
+   "blue": "\\bblue\\b",
+   "green": "\\bgreen\\b|\u7eff",
+   "white": "\\bwhite\\b",
+   "black": "\\bblack\\b",
+   "orange": "\\borange\\b",
+   "yellow": "yellow|\\bgold\\b",
+   "brown": "\\bbrown\\b",
+   "purple": "purple",
+   "grey": "\\bgr[ae]y\\b|silver"
+  },
+  "song": {
+   "song_waka": "waka|shakira|wavin|k.?naan|we are one|ole ola",
+   "song_baseball": "take me out|ball ?game|centerfield|center field|sweet caroline|fogerty|talkin.{0,3} baseball",
+   "song_hiphop": "drake|kanye|tupac|travis|jay.?z|kendrick|\\blil\\b|eminem|sicko|all i do is win|hall of fame|see you again|hit them up"
+  },
+  "feel": {
+   "excited": "excit|exicted|exited|thrill|energi[sz]|energetic|hyped|exhilarat|pumped|motivated|amazed|amazing|ecstatic|passion|impress|anticipat|fires me up",
+   "bored": "bor(?:ed|ing)|dull|sleep|tedious|monotonous",
+   "tense": "tense|tension|nervous|anxious|anxiety|stress|on edge|\\bedge\\b|suspense|scared|worried",
+   "happy": "happy|\\bfun\\b|entertain|enjoy|\\bjoy|\\bgood\\b|pleas|cheerful",
+   "calm": "relax|calm|peace|chill|patient|content|comfortable",
+   "indifferent": "indifferent|neutral|don.?t care|\\bmeh\\b|apath|\\bfine\\b|alright|decent|complacent|not much",
+   "curious": "interest|intrigu|curious|engag|focus|captivat|invest",
+   "confused": "confus|clueless|don.?t understand|do not understand",
+   "none": "don.?t know|no idea|\\bn/?a\\b|\\bnothing\\b|never watch|don.?t watch|do not watch"
+  }
+ }
+}
