@@ -2,5 +2,8 @@
 numpy>=1.24
 pandas>=2.0
 matplotlib>=3.9
+# Match the version used for model-family comparisons.
+scikit-learn==1.7.2
+threadpoolctl>=3.1
 # Optional for the standalone Data Exploration review PDF:
 reportlab>=4.0

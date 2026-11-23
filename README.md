@@ -6,9 +6,18 @@ The submitted proposal is preserved in `proposal.pdf`. The historical `clean.py`
 `plot_distributions.py`, and `cleaned_data/` outputs are unchanged. They document
 proposal exploration over training plus validation, not the new exploration scope.
 
-The Member 1 handoff contains reusable preprocessing, respondent assignments,
-an exposure audit, training-only exploration, tests, and a Data Exploration draft.
-It does not train, tune, select, or evaluate a classifier, or implement `pred.py`.
+The data-exploration handoff contains reusable preprocessing, respondent
+assignments, an exposure audit, training-only exploration, tests and a Data
+Exploration draft. The softmax model workstream is also complete locally: shared
+nested evaluation, tuning logs, 870 outer-fold predictions, error analysis,
+portable fold-model exports and model-specific report fragments.
+
+Softmax achieves 90.80% nested development accuracy and 0.9081 macro-F1. The
+decision tree and random forest remain to be tuned by the other members. No
+final family has been selected, no model has been refitted on all 290 respondents,
+and `pred.py` has not been implemented. These scores are subject to the historical
+feature-design limitation below. See `experiments/README.md` for the common
+comparison contract, commands and adapter instructions for the other two models.
 
 ## Reproduce and verify
 
@@ -20,6 +29,9 @@ environment. The tested environment and input/script checksums are recorded in
 python prepare_member1.py
 python -m unittest discover -s tests -v
 python report/build_data_section.py
+python -m experiments.run_softmax
+python -m experiments.summarize_results --results results/softmax
+python report/build_softmax_section.py
 ```
 
 Run these commands from the repository directory. `prepare_member1.py` also accepts
@@ -56,7 +68,8 @@ are in `development/protocol.json` and `development/respondent_folds.csv`.
 New exploration uses only `outer_fold != 0`: 232 respondents, 696 rows and 232
 examples per sport. Fold 0 is excluded from the new descriptive plots and fitted
 exploration state. This is a forward exploration boundary, not a claim that those
-58 respondents were historically untouched. No model score has been measured.
+58 respondents were historically untouched. The completed softmax run uses the
+five outer folds for evaluation, with fresh preprocessing in every training split.
 
 For Member 2, use nested grouped development evaluation: tune each family on
 the three inner folds, refit its selected configuration on that outer training
@@ -179,10 +192,14 @@ invent labels or inspect validation answers to expand the dictionary.
 | `report/data_exploration.tex` | Data Exploration draft for group review and integration |
 | `tests/test_preprocessing.py` | Parser, saved-state, inference and respondent-isolation checks |
 
-Member 2 still owns model training/tuning, metrics, error analysis and the final
-performance estimate. Member 3 still owns `pred.py`, model inference parity,
-runtime/size verification and full-report packaging. Every member should review
-the section wording and contribute their own contributions/learning text.
+Each member now owns one model family. Softmax development is complete; the
+decision-tree and random-forest owners should use `experiments/common.py` under
+the same recorded folds and metric contract. Family selection, final grouped
+hyperparameter selection, the full-data refit, `pred.py` and combined report
+packaging follow after all three families are tuned. Fold-reference parity has
+been verified for softmax; final deployment parity, runtime and size still need
+checking for whichever family is chosen. Each member supplies their own
+contributions/learning text.
 
 Report the historical exposure limitation without claiming that a new split
 removes it or guarantees full credit for the test-separation rubric item.

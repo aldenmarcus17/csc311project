@@ -1,0 +1,73 @@
+{
+  "model_family": "softmax",
+  "errors": 80,
+  "rows": 870,
+  "common_confusions": [
+    {
+      "true_label": "Soccer",
+      "predicted_label": "Baseball",
+      "count": 19
+    },
+    {
+      "true_label": "Baseball",
+      "predicted_label": "Soccer",
+      "count": 17
+    },
+    {
+      "true_label": "Basketball",
+      "predicted_label": "Baseball",
+      "count": 14
+    },
+    {
+      "true_label": "Soccer",
+      "predicted_label": "Basketball",
+      "count": 13
+    },
+    {
+      "true_label": "Baseball",
+      "predicted_label": "Basketball",
+      "count": 9
+    },
+    {
+      "true_label": "Basketball",
+      "predicted_label": "Soccer",
+      "count": 8
+    }
+  ],
+  "per_class_recall": {
+    "Baseball": 0.9103448275862069,
+    "Basketball": 0.9241379310344827,
+    "Soccer": 0.8896551724137931
+  },
+  "errors_with_confidence_at_least_0_9": 8,
+  "rows_with_blank_answers": 20,
+  "error_rate_with_blank_answers": 0.3,
+  "error_rate_without_blank_answers": 0.08705882352941176,
+  "high_confidence_error_examples": [
+    {
+      "row_index": 193,
+      "id": 65,
+      "true_label": "Baseball",
+      "predicted_label": "Basketball",
+      "confidence": 0.9972427422687936,
+      "probability_true_class": 0.0011329207493333
+    },
+    {
+      "row_index": 400,
+      "id": 134,
+      "true_label": "Baseball",
+      "predicted_label": "Soccer",
+      "confidence": 0.9621368621709742,
+      "probability_true_class": 0.0178020554829345
+    },
+    {
+      "row_index": 360,
+      "id": 121,
+      "true_label": "Soccer",
+      "predicted_label": "Basketball",
+      "confidence": 0.9462317683561524,
+      "probability_true_class": 0.0533508589328304
+    }
+  ],
+  "interpretation": "Outer-fold diagnostic evidence only. Associations are not causal; these errors do not trigger feature changes or retuning. Historical feature-design exposure remains."
+}

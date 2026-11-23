@@ -1,0 +1,21 @@
+\subsection{Grouped development evaluation and metrics}
+All 290 respondents are development data. We use the recorded five outer
+respondent-grouped folds (58 respondents and 174 rows per validation fold),
+with three inner grouped folds within each 232-respondent outer training
+partition. All three answers from a respondent remain together. Inner
+validation accuracy selects hyperparameters; the selected setting is refitted
+on the outer training partition and evaluated on its outer validation fold.
+Preprocessing is fitted separately within every training partition. The fixed
+manual keyword definitions retain the historical exposure limitation described
+in Data Exploration. Nested validation separates tuning from outer evaluation;
+it does not undo preliminary feature-design exposure.\cite{sklearn_nested_cv}
+
+Accuracy is the primary selection metric because the three classes are balanced.
+Macro-F1 gives every sport equal weight and reveals unequal class performance;
+per-class precision measures the reliability of predictions for that sport.
+We also report recall, F1 and support for each class, and log loss as a
+probability-sensitive diagnostic. Precision and recall use zero when their
+denominator is zero. Confusion matrices use actual classes as rows and predicted
+classes as columns. We report both aggregated outer-fold predictions and
+fold-level variability. All families must be tuned under these same rules
+before the final family is selected.

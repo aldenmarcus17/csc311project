@@ -11,3 +11,6 @@ preprocessing.py -text
 report/** -text
 requirements-development.txt -text
 tests/** -text
+experiments/** -text
+models/** -text
+results/** -text

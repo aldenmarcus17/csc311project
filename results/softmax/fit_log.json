@@ -1,0 +1,1352 @@
+[
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      22
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      22
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      23
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      44
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      42
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      44
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      52
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      66
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      60
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      112
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      113
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      114
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      162
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      243
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      211
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 0,
+    "phase": "outer_refit",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      65
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      22
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      25
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      21
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      37
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      39
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      41
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      62
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      58
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      57
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      102
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      101
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      118
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      159
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      224
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      238
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 1,
+    "phase": "outer_refit",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      63
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      23
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      28
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      24
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      45
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      47
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      42
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      57
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      77
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      60
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      121
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      128
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      110
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      192
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      211
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      197
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 2,
+    "phase": "outer_refit",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      63
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      24
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      25
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      29
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      37
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      44
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      43
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      52
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      61
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      53
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      117
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      112
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      114
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      198
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      209
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      246
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 3,
+    "phase": "outer_refit",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      63
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      22
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      24
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.01
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      22
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      44
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      42
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      46
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      77
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      59
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 1.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      63
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      118
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      113
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 10.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      110
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      206
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      215
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "C": 100.0
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      219
+    ]
+  },
+  {
+    "model": "softmax",
+    "outer_fold": 4,
+    "phase": "outer_refit",
+    "parameters": {
+      "C": 0.1
+    },
+    "attempt": 1,
+    "max_iter": 1000,
+    "status": "ok",
+    "warnings": [],
+    "iterations": [
+      49
+    ]
+  }
+]

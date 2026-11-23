@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "seed": 67,
+  "data_status": "All 290 respondents are development; no verified untouched local test set",
+  "protocol": "development/protocol.json",
+  "feature_specification": "development/feature_specification.json",
+  "outer_folds": 5,
+  "inner_folds": 3,
+  "primary_metric": "unweighted mean inner-fold accuracy",
+  "reporting_metrics": ["accuracy", "macro_f1", "precision_per_class", "recall_per_class", "f1_per_class", "log_loss"],
+  "class_order": ["Baseball", "Basketball", "Soccer"],
+  "feature_policy": "Fixed 73 predictors; id and label excluded; no feature changes based on validation outcomes",
+  "preprocessing_policy": "Fit separately on each distinct inner/outer training partition; reusing that partition's state across candidates is allowed",
+  "outer_policy": "Outer predictions are made after each inner search is complete and are not inputs to candidate or hyperparameter selection",
+  "tie_policy": "Accuracy differences <= 1e-12 are ties; use each adapter's declared complexity key",
+  "convergence_policy": "If an estimator supports max_iter and raises ConvergenceWarning, retry the same fit once with max_iter=5000; exclude unresolved/nonfinite/failed fits from candidate selection and log them",
+  "thread_limit": 1,
+  "softmax": {
+    "initial_C": [0.01, 0.1, 1.0, 10.0, 100.0],
+    "penalty": "l2",
+    "solver": "lbfgs",
+    "tol": 0.000001,
+    "max_iter": 1000,
+    "scale_numeric": true,
+    "tie_key": "smaller C",
+    "expansion_policy": "One extra candidate only: C=0.001 if the initial inner winner is 0.01; C=1000 if it is 100; otherwise none. No additional expansion after that."
+  },
+  "artifact_policy": "Save fold reference exports only; family selection and final full-data refitting wait until all three tuned families are available",
+  "limitation": "Preliminary exploration informed keyword definitions before an untouched local test group could be verified; earlier feature design may make evaluation estimates optimistic."
+}
