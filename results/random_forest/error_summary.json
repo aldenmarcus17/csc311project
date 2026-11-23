@@ -1,0 +1,73 @@
+{
+  "model_family": "random_forest",
+  "errors": 72,
+  "rows": 870,
+  "common_confusions": [
+    {
+      "true_label": "Soccer",
+      "predicted_label": "Baseball",
+      "count": 25
+    },
+    {
+      "true_label": "Basketball",
+      "predicted_label": "Baseball",
+      "count": 12
+    },
+    {
+      "true_label": "Soccer",
+      "predicted_label": "Basketball",
+      "count": 12
+    },
+    {
+      "true_label": "Baseball",
+      "predicted_label": "Basketball",
+      "count": 9
+    },
+    {
+      "true_label": "Baseball",
+      "predicted_label": "Soccer",
+      "count": 9
+    },
+    {
+      "true_label": "Basketball",
+      "predicted_label": "Soccer",
+      "count": 5
+    }
+  ],
+  "per_class_recall": {
+    "Baseball": 0.9379310344827586,
+    "Basketball": 0.9413793103448276,
+    "Soccer": 0.8724137931034482
+  },
+  "errors_with_confidence_at_least_0_9": 1,
+  "rows_with_blank_answers": 20,
+  "error_rate_with_blank_answers": 0.25,
+  "error_rate_without_blank_answers": 0.07882352941176471,
+  "high_confidence_error_examples": [
+    {
+      "row_index": 193,
+      "id": 65,
+      "true_label": "Baseball",
+      "predicted_label": "Basketball",
+      "confidence": 0.9522400549794406,
+      "probability_true_class": 0.0202437716425781
+    },
+    {
+      "row_index": 360,
+      "id": 121,
+      "true_label": "Soccer",
+      "predicted_label": "Basketball",
+      "confidence": 0.88,
+      "probability_true_class": 0.1
+    },
+    {
+      "row_index": 423,
+      "id": 142,
+      "true_label": "Soccer",
+      "predicted_label": "Baseball",
+      "confidence": 0.7371341160751527,
+      "probability_true_class": 0.1487710461020015
+    }
+  ],
+  "interpretation": "Outer-fold diagnostic evidence only. Associations are not causal; these errors do not trigger feature changes or retuning. Historical feature-design exposure remains."
+}

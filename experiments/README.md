@@ -104,7 +104,7 @@ Use the proposal's initial search spaces:
 | Family | Initial settings |
 |---|---|
 | Decision tree | Gini; max_depth = 3, 5, 10, 20, None; min_samples_leaf = 1, 2, 5, 10 |
-| Random forest | Gini and bootstrap; n_estimators = 100, 200; max_depth = 5, 10, 20, None; min_samples_leaf = 1, 2, 5; max_features = sqrt, 0.5 |
+| Random forest | Gini and bootstrap; n_estimators = 50, 100, 200; max_depth = 5, 10, 20, None; min_samples_leaf = 1, 2, 5; max_features = sqrt, 0.5 |
 
 Create candidates using `itertools.product` or `sklearn.model_selection.ParameterGrid`.
 State a deterministic tie key in advance, such as shallower depth then larger

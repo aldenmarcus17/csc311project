@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "model_family": "random_forest",
+  "evaluation": "recorded nested respondent-grouped development CV",
+  "class_order": [
+    "Baseball",
+    "Basketball",
+    "Soccer"
+  ],
+  "respondents": 290,
+  "rows": 870,
+  "oof_metrics": {
+    "rows": 870,
+    "accuracy": 0.9172413793103448,
+    "macro_f1": 0.9171832894638142,
+    "log_loss": 0.3575040360212182,
+    "per_class": {
+      "Baseball": {
+        "precision": 0.8802588996763754,
+        "recall": 0.9379310344827586,
+        "f1": 0.9081803005008348,
+        "support": 290
+      },
+      "Basketball": {
+        "precision": 0.9285714285714286,
+        "recall": 0.9413793103448276,
+        "f1": 0.934931506849315,
+        "support": 290
+      },
+      "Soccer": {
+        "precision": 0.947565543071161,
+        "recall": 0.8724137931034482,
+        "f1": 0.9084380610412927,
+        "support": 290
+      }
+    },
+    "confusion_matrix": [
+      [
+        272,
+        9,
+        9
+      ],
+      [
+        12,
+        273,
+        5
+      ],
+      [
+        25,
+        12,
+        253
+      ]
+    ]
+  },
+  "mean_outer_accuracy": 0.9172413793103449,
+  "sample_std_outer_accuracy": 0.014986672195868193,
+  "mean_outer_macro_f1": 0.917153339743128,
+  "mean_training_accuracy": 0.9695402298850576,
+  "outer_fold_accuracies": [
+    0.9252873563218391,
+    0.9195402298850575,
+    0.9367816091954023,
+    0.9022988505747126,
+    0.9022988505747126
+  ],
+  "selected_parameters_by_fold": [
+    {
+      "n_estimators": 50,
+      "max_depth": 10,
+      "min_samples_leaf": 5,
+      "max_features": "sqrt"
+    },
+    {
+      "n_estimators": 100,
+      "max_depth": 20,
+      "min_samples_leaf": 5,
+      "max_features": "sqrt"
+    },
+    {
+      "n_estimators": 100,
+      "max_depth": 10,
+      "min_samples_leaf": 1,
+      "max_features": "sqrt"
+    },
+    {
+      "n_estimators": 100,
+      "max_depth": 20,
+      "min_samples_leaf": 1,
+      "max_features": "sqrt"
+    },
+    {
+      "n_estimators": 200,
+      "max_depth": 10,
+      "min_samples_leaf": 1,
+      "max_features": "sqrt"
+    }
+  ],
+  "initial_search_fits": 1080,
+  "expansion_search_fits": 0,
+  "fit_attempts": 1085,
+  "outer_refits": 5,
+  "unresolved_inner_failures": 0,
+  "convergence_retries": 0,
+  "export_parity": [
+    {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 1.1102230246251565e-16,
+      "rows": 174
+    },
+    {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 1.1102230246251565e-16,
+      "rows": 174
+    },
+    {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 2.7755575615628914e-17,
+      "rows": 174
+    },
+    {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 0.0,
+      "rows": 174
+    },
+    {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 2.220446049250313e-16,
+      "rows": 174
+    }
+  ],
+  "final_model_selected": false,
+  "full_data_refit_performed": false,
+  "limitation": "Preliminary exploration informed keyword definitions before an untouched local test group could be verified; earlier feature design may make evaluation estimates optimistic."
+}

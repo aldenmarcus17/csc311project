@@ -1,0 +1,592 @@
+[
+  {
+    "outer_fold": 0,
+    "parameters": {
+      "n_estimators": 50,
+      "max_depth": 10,
+      "min_samples_leaf": 5,
+      "max_features": "sqrt"
+    },
+    "initial_winner": {
+      "n_estimators": 50,
+      "max_depth": 10,
+      "min_samples_leaf": 5,
+      "max_features": "sqrt"
+    },
+    "expanded_candidates": [],
+    "inner_selection_accuracy": 0.9152144152144152,
+    "training_rows": 696,
+    "validation_rows": 174,
+    "training_respondents": 232,
+    "validation_respondents": 58,
+    "training_metrics": {
+      "rows": 696,
+      "accuracy": 0.9382183908045977,
+      "macro_f1": 0.9381558977195734,
+      "log_loss": 0.33186023978873697,
+      "per_class": {
+        "Baseball": {
+          "precision": 0.8972332015810277,
+          "recall": 0.978448275862069,
+          "f1": 0.9360824742268041,
+          "support": 232
+        },
+        "Basketball": {
+          "precision": 0.9364406779661016,
+          "recall": 0.9525862068965517,
+          "f1": 0.9444444444444444,
+          "support": 232
+        },
+        "Soccer": {
+          "precision": 0.9903381642512077,
+          "recall": 0.8836206896551724,
+          "f1": 0.9339407744874715,
+          "support": 232
+        }
+      },
+      "confusion_matrix": [
+        [
+          227,
+          5,
+          0
+        ],
+        [
+          9,
+          221,
+          2
+        ],
+        [
+          17,
+          10,
+          205
+        ]
+      ]
+    },
+    "validation_metrics": {
+      "rows": 174,
+      "accuracy": 0.9252873563218391,
+      "macro_f1": 0.9256188152208691,
+      "log_loss": 0.38278487804866485,
+      "per_class": {
+        "Baseball": {
+          "precision": 0.8615384615384616,
+          "recall": 0.9655172413793104,
+          "f1": 0.9105691056910569,
+          "support": 58
+        },
+        "Basketball": {
+          "precision": 0.9642857142857143,
+          "recall": 0.9310344827586207,
+          "f1": 0.9473684210526315,
+          "support": 58
+        },
+        "Soccer": {
+          "precision": 0.9622641509433962,
+          "recall": 0.8793103448275862,
+          "f1": 0.918918918918919,
+          "support": 58
+        }
+      },
+      "confusion_matrix": [
+        [
+          56,
+          0,
+          2
+        ],
+        [
+          4,
+          54,
+          0
+        ],
+        [
+          5,
+          2,
+          51
+        ]
+      ]
+    },
+    "export_parity": {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 1.1102230246251565e-16,
+      "rows": 174
+    },
+    "fit_status": "ok",
+    "fit_seconds": 0.08121569990180433,
+    "fit_attempts": 1,
+    "warnings_json": "[]",
+    "iterations_json": "[]"
+  },
+  {
+    "outer_fold": 1,
+    "parameters": {
+      "n_estimators": 100,
+      "max_depth": 20,
+      "min_samples_leaf": 5,
+      "max_features": "sqrt"
+    },
+    "initial_winner": {
+      "n_estimators": 100,
+      "max_depth": 20,
+      "min_samples_leaf": 5,
+      "max_features": "sqrt"
+    },
+    "expanded_candidates": [],
+    "inner_selection_accuracy": 0.9195804195804196,
+    "training_rows": 696,
+    "validation_rows": 174,
+    "training_respondents": 232,
+    "validation_respondents": 58,
+    "training_metrics": {
+      "rows": 696,
+      "accuracy": 0.9410919540229885,
+      "macro_f1": 0.9411149134473821,
+      "log_loss": 0.3207512427894858,
+      "per_class": {
+        "Baseball": {
+          "precision": 0.9032258064516129,
+          "recall": 0.9655172413793104,
+          "f1": 0.9333333333333333,
+          "support": 232
+        },
+        "Basketball": {
+          "precision": 0.9409282700421941,
+          "recall": 0.9612068965517241,
+          "f1": 0.9509594882729211,
+          "support": 232
+        },
+        "Soccer": {
+          "precision": 0.985781990521327,
+          "recall": 0.896551724137931,
+          "f1": 0.9390519187358917,
+          "support": 232
+        }
+      },
+      "confusion_matrix": [
+        [
+          224,
+          6,
+          2
+        ],
+        [
+          8,
+          223,
+          1
+        ],
+        [
+          16,
+          8,
+          208
+        ]
+      ]
+    },
+    "validation_metrics": {
+      "rows": 174,
+      "accuracy": 0.9195402298850575,
+      "macro_f1": 0.91871647657544,
+      "log_loss": 0.3947415949200237,
+      "per_class": {
+        "Baseball": {
+          "precision": 0.8888888888888888,
+          "recall": 0.9655172413793104,
+          "f1": 0.9256198347107438,
+          "support": 58
+        },
+        "Basketball": {
+          "precision": 0.9032258064516129,
+          "recall": 0.9655172413793104,
+          "f1": 0.9333333333333333,
+          "support": 58
+        },
+        "Soccer": {
+          "precision": 0.9795918367346939,
+          "recall": 0.8275862068965517,
+          "f1": 0.897196261682243,
+          "support": 58
+        }
+      },
+      "confusion_matrix": [
+        [
+          56,
+          2,
+          0
+        ],
+        [
+          1,
+          56,
+          1
+        ],
+        [
+          6,
+          4,
+          48
+        ]
+      ]
+    },
+    "export_parity": {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 1.1102230246251565e-16,
+      "rows": 174
+    },
+    "fit_status": "ok",
+    "fit_seconds": 0.1609098999761045,
+    "fit_attempts": 1,
+    "warnings_json": "[]",
+    "iterations_json": "[]"
+  },
+  {
+    "outer_fold": 2,
+    "parameters": {
+      "n_estimators": 100,
+      "max_depth": 10,
+      "min_samples_leaf": 1,
+      "max_features": "sqrt"
+    },
+    "initial_winner": {
+      "n_estimators": 100,
+      "max_depth": 10,
+      "min_samples_leaf": 1,
+      "max_features": "sqrt"
+    },
+    "expanded_candidates": [],
+    "inner_selection_accuracy": 0.9108114108114108,
+    "training_rows": 696,
+    "validation_rows": 174,
+    "training_respondents": 232,
+    "validation_respondents": 58,
+    "training_metrics": {
+      "rows": 696,
+      "accuracy": 0.985632183908046,
+      "macro_f1": 0.9856298943704823,
+      "log_loss": 0.18007330640552843,
+      "per_class": {
+        "Baseball": {
+          "precision": 0.9707112970711297,
+          "recall": 1.0,
+          "f1": 0.9851380042462845,
+          "support": 232
+        },
+        "Basketball": {
+          "precision": 0.9870689655172413,
+          "recall": 0.9870689655172413,
+          "f1": 0.9870689655172413,
+          "support": 232
+        },
+        "Soccer": {
+          "precision": 1.0,
+          "recall": 0.9698275862068966,
+          "f1": 0.9846827133479212,
+          "support": 232
+        }
+      },
+      "confusion_matrix": [
+        [
+          232,
+          0,
+          0
+        ],
+        [
+          3,
+          229,
+          0
+        ],
+        [
+          4,
+          3,
+          225
+        ]
+      ]
+    },
+    "validation_metrics": {
+      "rows": 174,
+      "accuracy": 0.9367816091954023,
+      "macro_f1": 0.9367286442248961,
+      "log_loss": 0.3285432921488583,
+      "per_class": {
+        "Baseball": {
+          "precision": 0.9298245614035088,
+          "recall": 0.9137931034482759,
+          "f1": 0.9217391304347826,
+          "support": 58
+        },
+        "Basketball": {
+          "precision": 0.9322033898305084,
+          "recall": 0.9482758620689655,
+          "f1": 0.9401709401709402,
+          "support": 58
+        },
+        "Soccer": {
+          "precision": 0.9482758620689655,
+          "recall": 0.9482758620689655,
+          "f1": 0.9482758620689655,
+          "support": 58
+        }
+      },
+      "confusion_matrix": [
+        [
+          53,
+          3,
+          2
+        ],
+        [
+          2,
+          55,
+          1
+        ],
+        [
+          2,
+          1,
+          55
+        ]
+      ]
+    },
+    "export_parity": {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 2.7755575615628914e-17,
+      "rows": 174
+    },
+    "fit_status": "ok",
+    "fit_seconds": 0.1517342000734061,
+    "fit_attempts": 1,
+    "warnings_json": "[]",
+    "iterations_json": "[]"
+  },
+  {
+    "outer_fold": 3,
+    "parameters": {
+      "n_estimators": 100,
+      "max_depth": 20,
+      "min_samples_leaf": 1,
+      "max_features": "sqrt"
+    },
+    "initial_winner": {
+      "n_estimators": 100,
+      "max_depth": 20,
+      "min_samples_leaf": 1,
+      "max_features": "sqrt"
+    },
+    "expanded_candidates": [],
+    "inner_selection_accuracy": 0.9223924223924224,
+    "training_rows": 696,
+    "validation_rows": 174,
+    "training_respondents": 232,
+    "validation_respondents": 58,
+    "training_metrics": {
+      "rows": 696,
+      "accuracy": 0.9942528735632183,
+      "macro_f1": 0.9942618573494264,
+      "log_loss": 0.10343033021654309,
+      "per_class": {
+        "Baseball": {
+          "precision": 0.9830508474576272,
+          "recall": 1.0,
+          "f1": 0.9914529914529915,
+          "support": 232
+        },
+        "Basketball": {
+          "precision": 1.0,
+          "recall": 0.9870689655172413,
+          "f1": 0.9934924078091106,
+          "support": 232
+        },
+        "Soccer": {
+          "precision": 1.0,
+          "recall": 0.9956896551724138,
+          "f1": 0.9978401727861771,
+          "support": 232
+        }
+      },
+      "confusion_matrix": [
+        [
+          232,
+          0,
+          0
+        ],
+        [
+          3,
+          229,
+          0
+        ],
+        [
+          1,
+          0,
+          231
+        ]
+      ]
+    },
+    "validation_metrics": {
+      "rows": 174,
+      "accuracy": 0.9022988505747126,
+      "macro_f1": 0.9020251778872468,
+      "log_loss": 0.3294023869613992,
+      "per_class": {
+        "Baseball": {
+          "precision": 0.896551724137931,
+          "recall": 0.896551724137931,
+          "f1": 0.896551724137931,
+          "support": 58
+        },
+        "Basketball": {
+          "precision": 0.8870967741935484,
+          "recall": 0.9482758620689655,
+          "f1": 0.9166666666666666,
+          "support": 58
+        },
+        "Soccer": {
+          "precision": 0.9259259259259259,
+          "recall": 0.8620689655172413,
+          "f1": 0.8928571428571429,
+          "support": 58
+        }
+      },
+      "confusion_matrix": [
+        [
+          52,
+          3,
+          3
+        ],
+        [
+          2,
+          55,
+          1
+        ],
+        [
+          4,
+          4,
+          50
+        ]
+      ]
+    },
+    "export_parity": {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 0.0,
+      "rows": 174
+    },
+    "fit_status": "ok",
+    "fit_seconds": 0.16408700007013977,
+    "fit_attempts": 1,
+    "warnings_json": "[]",
+    "iterations_json": "[]"
+  },
+  {
+    "outer_fold": 4,
+    "parameters": {
+      "n_estimators": 200,
+      "max_depth": 10,
+      "min_samples_leaf": 1,
+      "max_features": "sqrt"
+    },
+    "initial_winner": {
+      "n_estimators": 200,
+      "max_depth": 10,
+      "min_samples_leaf": 1,
+      "max_features": "sqrt"
+    },
+    "expanded_candidates": [],
+    "inner_selection_accuracy": 0.9167314167314168,
+    "training_rows": 696,
+    "validation_rows": 174,
+    "training_respondents": 232,
+    "validation_respondents": 58,
+    "training_metrics": {
+      "rows": 696,
+      "accuracy": 0.9885057471264368,
+      "macro_f1": 0.9885081930721059,
+      "log_loss": 0.17829188714017158,
+      "per_class": {
+        "Baseball": {
+          "precision": 0.9829787234042553,
+          "recall": 0.9956896551724138,
+          "f1": 0.9892933618843683,
+          "support": 232
+        },
+        "Basketball": {
+          "precision": 0.9829059829059829,
+          "recall": 0.9913793103448276,
+          "f1": 0.9871244635193133,
+          "support": 232
+        },
+        "Soccer": {
+          "precision": 1.0,
+          "recall": 0.978448275862069,
+          "f1": 0.9891067538126361,
+          "support": 232
+        }
+      },
+      "confusion_matrix": [
+        [
+          231,
+          1,
+          0
+        ],
+        [
+          2,
+          230,
+          0
+        ],
+        [
+          2,
+          3,
+          227
+        ]
+      ]
+    },
+    "validation_metrics": {
+      "rows": 174,
+      "accuracy": 0.9022988505747126,
+      "macro_f1": 0.9026775848071881,
+      "log_loss": 0.3520480280271449,
+      "per_class": {
+        "Baseball": {
+          "precision": 0.8333333333333334,
+          "recall": 0.9482758620689655,
+          "f1": 0.8870967741935484,
+          "support": 58
+        },
+        "Basketball": {
+          "precision": 0.9636363636363636,
+          "recall": 0.9137931034482759,
+          "f1": 0.9380530973451328,
+          "support": 58
+        },
+        "Soccer": {
+          "precision": 0.9245283018867925,
+          "recall": 0.8448275862068966,
+          "f1": 0.8828828828828829,
+          "support": 58
+        }
+      },
+      "confusion_matrix": [
+        [
+          55,
+          1,
+          2
+        ],
+        [
+          3,
+          53,
+          2
+        ],
+        [
+          8,
+          1,
+          49
+        ]
+      ]
+    },
+    "export_parity": {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 2.220446049250313e-16,
+      "rows": 174
+    },
+    "fit_status": "ok",
+    "fit_seconds": 0.27273340011015534,
+    "fit_attempts": 1,
+    "warnings_json": "[]",
+    "iterations_json": "[]"
+  }
+]
