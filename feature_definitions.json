@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "source": "Fixed keyword and option definitions from the submitted proposal code; historical response-inspection coverage is unknown.",
+  "class_order": [
+    "Baseball",
+    "Basketball",
+    "Soccer"
+  ],
+  "raw_columns": {
+    "id": "id",
+    "How easy do you think it would be for someone with no prior experience to start playing this sport recreationally? Rate it on a scale from 0 to 10, where 0 means extremely difficult and 10 means extremely easy.": "ease",
+    "Success in this sport depends heavily on strategy and planning.": "strategy",
+    "Players must be comfortable with a high risk of injury.": "injury",
+    "Individual brilliance can outweigh teamwork in this sport.": "brilliance",
+    "Where might you play this sport?": "where",
+    "During which seasons would you be most likely to play this sport recreationally in Toronto?": "seasons",
+    "What types of music do you most associate with this sport?": "music",
+    "What foods and drinks do you associate with watching this sport in the place or culture you know best?": "food",
+    "What colour do you associate with this sport?": "colour",
+    "Which song do you associate with this sport?": "song",
+    "How do you feel when you watch this sport?": "feel",
+    "How much would you be willing to pay for a decent seat at a professional competition of this sport?": "pay",
+    "label": "label"
+  },
+  "likert": {
+    "strongly disagree": 1,
+    "disagree": 2,
+    "neutral": 3,
+    "agree": 4,
+    "strongly agree": 5
+  },
+  "likert_columns": [
+    "strategy",
+    "injury",
+    "brilliance"
+  ],
+  "multiselect": {
+    "where": [
+      "Indoor facility",
+      "Outdoor public space",
+      "School or university facility",
+      "Community recreation facility",
+      "Private sports facility",
+      "At home or nearby",
+      "Others"
+    ],
+    "seasons": [
+      "Winter",
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "music": [
+      "Hip-hop or rap",
+      "Latin",
+      "Folk or traditional",
+      "Pop",
+      "Rock",
+      "Electronic or dance",
+      "No particular type",
+      "Classical or jazz",
+      "Country",
+      "Other"
+    ]
+  },
+  "keywords": {
+    "food": {
+      "hotdog": "hot\\s*-?\\s*dog",
+      "popcorn": "pop\\s*corn",
+      "beer": "\\bbeers?\\b|\\balcohol\\b",
+      "soda": "\\bsoda|\\bcoke\\b|\\bcola\\b|\\bpepsi\\b|\\bsprite\\b|soft drink|\\bpop\\b(?!\\s*corn)",
+      "pizza": "pizza",
+      "fries": "\\bfries\\b|french fr|\\bfires\\b",
+      "chips": "\\bchips\\b|crisps",
+      "nachos": "nacho",
+      "burger": "burger|sliders?",
+      "wings": "\\bwings?\\b",
+      "chicken": "chicken(?!\\s*wing)",
+      "peanuts": "peanut|cracker\\s*jack|\\bnuts\\b",
+      "sunflower": "sunflower|\\bseeds\\b",
+      "pretzel": "pretzel",
+      "water": "\\bwater\\b",
+      "sports_drink": "gatorade|gaderade|powerade|sports? drink|energy drink|electrolyte",
+      "poutine": "poutine",
+      "sandwich": "sandwich",
+      "fish": "\\bfish\\b",
+      "taco": "\\btacos?\\b",
+      "bbq": "bbq|barbecue|\\bribs\\b|skewer|kebab",
+      "sausage": "sausage|bratwurst",
+      "snacks": "snack|fast food|pub food|finger food|junk food",
+      "none": "\\bn/?a\\b|\\bnone\\b|\\bnothing\\b|unsure|\\bidk\\b|don.?t know|no particular"
+    },
+    "colour": {
+      "red": "\\bred\\b|maroon|crimson",
+      "blue": "\\bblue\\b",
+      "green": "\\bgreen\\b|\u00e7\u00bb\u00bf",
+      "white": "\\bwhite\\b",
+      "black": "\\bblack\\b",
+      "orange": "\\borange\\b",
+      "yellow": "yellow|\\bgold\\b",
+      "brown": "\\bbrown\\b",
+      "purple": "purple",
+      "grey": "\\bgr[ae]y\\b|silver"
+    },
+    "song": {
+      "song_waka": "waka|shakira|wavin|k.?naan|we are one|ole ola",
+      "song_baseball": "take me out|ball ?game|centerfield|center field|sweet caroline|fogerty|talkin.{0,3} baseball",
+      "song_hiphop": "drake|kanye|tupac|travis|jay.?z|kendrick|\\blil\\b|eminem|sicko|all i do is win|hall of fame|see you again|hit them up"
+    },
+    "feel": {
+      "excited": "excit|exicted|exited|thrill|energi[sz]|energetic|hyped|exhilarat|pumped|motivated|amazed|amazing|ecstatic|passion|impress|anticipat|fires me up",
+      "bored": "bor(?:ed|ing)|dull|sleep|tedious|monotonous",
+      "tense": "tense|tension|nervous|anxious|anxiety|stress|on edge|\\bedge\\b|suspense|scared|worried",
+      "happy": "happy|\\bfun\\b|entertain|enjoy|\\bjoy|\\bgood\\b|pleas|cheerful",
+      "calm": "relax|calm|peace|chill|patient|content|comfortable",
+      "indifferent": "indifferent|neutral|don.?t care|\\bmeh\\b|apath|\\bfine\\b|alright|decent|complacent|not much",
+      "curious": "interest|intrigu|curious|engag|focus|captivat|invest",
+      "confused": "confus|clueless|don.?t understand|do not understand",
+      "none": "don.?t know|no idea|\\bn/?a\\b|\\bnothing\\b|never watch|don.?t watch|do not watch"
+    }
+  },
+  "no_song_pattern": "^\\s*(none|no|nothing|idk|no idea|n/?a|na|no particular song|not sure|unsure|don.?t know|i don.?t know)\\b|\\[a ",
+  "no_pay_pattern": "\\b(none|nothing|unwilling|not (really |too )?willing|no willing|wouldn.?t|would not|won.?t|no i don|do not watch|not too much)\\b|need to pay me"
+}

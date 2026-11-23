@@ -1,0 +1,13 @@
+# PDFs must never undergo line-ending conversion.
+*.pdf binary
+
+# Preserve bytes recorded in development provenance and feature checksums.
+README.md -text
+development/** -text
+development_protocol.py -text
+feature_definitions.json -text
+prepare_member1.py -text
+preprocessing.py -text
+report/** -text
+requirements-development.txt -text
+tests/** -text

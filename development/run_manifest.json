@@ -1,0 +1,18 @@
+{
+  "python": "3.12.10",
+  "numpy": "2.2.5",
+  "pandas": "2.3.2",
+  "matplotlib": "3.11.2",
+  "source_sha256": "596e5556579760e5dc465f10d691033bba691807e713a1cb2c1ca4f3d5ee30d0",
+  "scripts_sha256": {
+    "preprocessing.py": "4988a3a92cbe4ffb459a7ac4a81089c3545b64e57ed246c035b4e30c3ac00a08",
+    "development_protocol.py": "3307db06fdf3d418d9d1788a3c691e4fa78ea5c6ed0213a392c9d667378a2737",
+    "prepare_member1.py": "5b660b559eba2a5317e2f9a96a37772ea33d78f857d9e2721ab004dd4864e429",
+    "feature_definitions.json": "725af29dc8f9385bebd8543879f7dbc194f9479016b396fa08898e4d96285c93"
+  },
+  "protocol_sha256": "a7d453894e8b14065fd66c8bb06791c7f627baef838d9b4db7622e2a62775034",
+  "eda_training_respondents": 232,
+  "eda_training_rows": 696,
+  "excluded_from_new_eda_rows": 174,
+  "feature_matrix_sha256": "567f49c99d19fcfe4c2830da2341a7be1851d70f68198ade9d67627097050110"
+}

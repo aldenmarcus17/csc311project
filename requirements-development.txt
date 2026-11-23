@@ -1,0 +1,6 @@
+# Tested versions are recorded in development/run_manifest.json.
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.9
+# Optional for the standalone Data Exploration review PDF:
+reportlab>=4.0

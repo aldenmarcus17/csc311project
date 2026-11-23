@@ -1,0 +1,702 @@
+id,label,raw,parsed_pay,status
+2,Soccer,"$1,000 ",1000.0,numeric
+2,Baseball,$500 ,500.0,numeric
+2,Basketball,"$2,000 ",2000.0,numeric
+3,Soccer,$200-$300,250.0,range
+3,Baseball,$100 ,100.0,numeric
+3,Basketball,$200 ,200.0,numeric
+4,Soccer,$100 ,100.0,numeric
+4,Baseball,30,30.0,numeric
+4,Basketball,200,200.0,numeric
+5,Soccer,0,0.0,numeric
+5,Baseball,0,0.0,numeric
+5,Basketball,0,0.0,numeric
+7,Soccer,400 CAD,400.0,numeric
+7,Baseball,150 CAD,150.0,numeric
+7,Basketball,500 CAD,500.0,numeric
+8,Soccer,CAD 150,150.0,numeric
+8,Baseball,CAD 50,50.0,numeric
+8,Basketball,CAD 50,50.0,numeric
+9,Soccer,not really willing to,0.0,refusal
+9,Baseball,not really willing to,0.0,refusal
+9,Basketball,not really willing to,0.0,refusal
+11,Soccer,500 dollar,500.0,numeric
+11,Baseball,200,200.0,numeric
+11,Basketball,500,500.0,numeric
+12,Soccer,$250 ,250.0,numeric
+12,Baseball,$80 ,80.0,numeric
+12,Basketball,$150 ,150.0,numeric
+14,Soccer,"Because I am not very interested in [this sport], I would pay at most $200.",200.0,numeric
+14,Baseball,"I am not interested in [this sport], so at most $50",50.0,numeric
+14,Basketball,$150 ,150.0,numeric
+15,Soccer,"Depending on the match and the league, but if we assume my home country in the [a competition] final, I would be willing to pay around 1000 CAD maximum.",1000.0,numeric
+15,Baseball,10 CAD maximum,10.0,numeric
+15,Basketball,Depends on the league and the match but I would probably pay 200 CAD at most.,200.0,numeric
+18,Soccer,100 cad,100.0,numeric
+18,Baseball,0,0.0,numeric
+18,Basketball,50,50.0,numeric
+19,Soccer,about 200$,200.0,numeric
+19,Baseball,about 100$,100.0,numeric
+19,Basketball,150$,150.0,numeric
+20,Soccer,0,0.0,numeric
+20,Baseball,None,0.0,refusal
+20,Basketball,None,0.0,refusal
+21,Soccer,$500 ,500.0,numeric
+21,Baseball,$150 ,150.0,numeric
+21,Basketball,$250 ,250.0,numeric
+23,Soccer,0,0.0,numeric
+23,Baseball,0,0.0,numeric
+23,Basketball,100$,100.0,numeric
+24,Soccer,"$100 Canadian, at most,  maybe more depending on the tier of play. ",100.0,numeric
+24,Baseball,"Nothing, I'm not really a fan, perhaps a small amount ($100 max) if with friends. ",,ambiguous_multiple
+24,Basketball,"Nothing, I'm not really a fan, perhaps a small amount ($100 max) if with friends. ",,ambiguous_multiple
+25,Soccer,200CAD,200.0,numeric
+25,Baseball,150CAD,150.0,numeric
+25,Basketball,200CAD,200.0,numeric
+26,Soccer,At most 500 CAD. ,500.0,numeric
+26,Baseball,At most 300 CAD.,300.0,numeric
+26,Basketball,At most 1000 CAD. ,1000.0,numeric
+27,Soccer,very willing,,unparsed_text
+27,Baseball,somewhat will,,unparsed_text
+27,Basketball,very willing,,unparsed_text
+28,Soccer,Depends on the importance of the match. A decent seat in an important match worth 1000USD for me.,1000.0,numeric
+28,Baseball,50USD,50.0,numeric
+28,Basketball,100USD,100.0,numeric
+29,Soccer,around $70-$90,80.0,range
+29,Baseball,around 60,60.0,numeric
+29,Basketball,around 100,100.0,numeric
+30,Soccer,50,50.0,numeric
+30,Baseball,50,50.0,numeric
+30,Basketball,70,70.0,numeric
+31,Soccer,400 - 700,550.0,range
+31,Baseball,100,100.0,numeric
+31,Basketball,300 - 400,350.0,range
+32,Soccer,200 CAD,200.0,numeric
+32,Baseball,100 CAD,100.0,numeric
+32,Basketball,200 CAD,200.0,numeric
+33,Soccer,$150 ,150.0,numeric
+33,Baseball,$200 ,200.0,numeric
+33,Basketball,$800 ,800.0,numeric
+34,Soccer,"$10,000 ",10000.0,numeric
+34,Baseball,$50 ,50.0,numeric
+34,Basketball,$100 ,100.0,numeric
+35,Soccer,200dollars,200.0,numeric
+35,Baseball,200 dollars,200.0,numeric
+35,Basketball,300dollars,300.0,numeric
+37,Soccer,1000,1000.0,numeric
+37,Baseball,100,100.0,numeric
+37,Basketball,500,500.0,numeric
+38,Soccer,Around $90 CAD for a decent seat.,90.0,numeric
+38,Baseball,Around $75 CAD for a decent seat.,75.0,numeric
+38,Basketball,Around $150 CAD for a decent seat.,150.0,numeric
+39,Soccer,200 cad,200.0,numeric
+39,Baseball,150 cad,150.0,numeric
+39,Basketball,300 cad,300.0,numeric
+40,Soccer,$50 ,50.0,numeric
+40,Baseball,$75 ,75.0,numeric
+40,Basketball,$60 ,60.0,numeric
+41,Soccer,"Usually around 100 to 200 CAD, but at most 1000 CAD if the game has player(s) I like or from my home team.",,ambiguous_multiple
+41,Baseball,50 to 150 CAD,100.0,range
+41,Basketball,20 to 100 CAD,60.0,range
+42,Soccer,0,0.0,numeric
+42,Baseball,0,0.0,numeric
+42,Basketball,0,0.0,numeric
+43,Soccer,50,50.0,numeric
+43,Baseball,70,70.0,numeric
+43,Basketball,60,60.0,numeric
+44,Soccer,$10 000,,ambiguous_multiple
+44,Baseball,"$3,000 ",3000.0,numeric
+44,Basketball,"$5,000 ",5000.0,numeric
+46,Soccer,$300 ,300.0,numeric
+46,Baseball,$20 ,20.0,numeric
+46,Basketball,$70 ,70.0,numeric
+47,Soccer,80,80.0,numeric
+47,Baseball,40,40.0,numeric
+47,Basketball,50,50.0,numeric
+48,Soccer,$75 ,75.0,numeric
+48,Baseball,$20 ,20.0,numeric
+48,Basketball,$150 ,150.0,numeric
+49,Soccer,200,200.0,numeric
+49,Baseball,50,50.0,numeric
+49,Basketball,120,120.0,numeric
+50,Soccer,$500 ,500.0,numeric
+50,Baseball,$10 ,10.0,numeric
+50,Basketball,$150 ,150.0,numeric
+51,Soccer,300$-500$,400.0,range
+51,Baseball,200$,200.0,numeric
+51,Basketball,300-500$,400.0,range
+52,Soccer,300 CAD,300.0,numeric
+52,Baseball,50 CAD,50.0,numeric
+52,Basketball,100 CAD,100.0,numeric
+56,Soccer,"$1,000 ",1000.0,numeric
+56,Baseball,$150 ,150.0,numeric
+56,Basketball,$600 ,600.0,numeric
+57,Soccer,100 dollars,100.0,numeric
+57,Baseball,20 dollars,20.0,numeric
+57,Basketball,2000 dollars,2000.0,numeric
+58,Soccer,$500 ,500.0,numeric
+58,Baseball,$100 ,100.0,numeric
+58,Basketball,$400 ,400.0,numeric
+59,Soccer,0,0.0,numeric
+59,Baseball,0,0.0,numeric
+59,Basketball,0,0.0,numeric
+60,Soccer,$500 CAD,500.0,numeric
+60,Baseball,$120 CAD,120.0,numeric
+60,Basketball,$500 CAD,500.0,numeric
+62,Soccer,$50 ,50.0,numeric
+62,Baseball,$60 ,60.0,numeric
+62,Basketball,$100 ,100.0,numeric
+63,Soccer,60,60.0,numeric
+63,Baseball,30,30.0,numeric
+63,Basketball,40,40.0,numeric
+64,Soccer,No willing.,0.0,refusal
+64,Baseball,Not willing,0.0,refusal
+64,Basketball,Not willing. ,0.0,refusal
+65,Soccer,$400 ,400.0,numeric
+65,Baseball,$400 ,400.0,numeric
+65,Basketball,$400 ,400.0,numeric
+66,Soccer,70,70.0,numeric
+66,Baseball,20,20.0,numeric
+66,Basketball,100,100.0,numeric
+68,Soccer,Zero. I have no any interest in team sport like [this sport],0.0,written_number
+68,Baseball,Zero. I have no interest in team sport,0.0,written_number
+68,Basketball,Zero,0.0,written_number
+69,Soccer,$100 ,100.0,numeric
+69,Baseball,40,40.0,numeric
+69,Basketball,100,100.0,numeric
+70,Soccer,$250CAD,250.0,numeric
+70,Baseball,$100CAD,100.0,numeric
+70,Basketball,$250CAD,250.0,numeric
+71,Soccer,100$,100.0,numeric
+71,Baseball,100$,100.0,numeric
+71,Basketball,100$,100.0,numeric
+73,Soccer,None I do not watch sports.,0.0,refusal
+73,Baseball,None I do not watch sports.,0.0,refusal
+73,Basketball,None I dont watch sports.,0.0,refusal
+74,Soccer,200 dollars,200.0,numeric
+74,Baseball,100 dollars,100.0,numeric
+74,Basketball,150 dollars,150.0,numeric
+75,Soccer,$50 ,50.0,numeric
+75,Baseball,$80 ,80.0,numeric
+75,Basketball,$80 ,80.0,numeric
+76,Soccer,$50 max,50.0,numeric
+76,Baseball,$70 ,70.0,numeric
+76,Basketball,$50 ,50.0,numeric
+79,Soccer,$30 ,30.0,numeric
+79,Baseball,$30 ,30.0,numeric
+79,Basketball,$200 ,200.0,numeric
+80,Soccer,"depends on the league, for the best league, 200 bucks",200.0,numeric
+80,Baseball,100 bucks ,100.0,numeric
+80,Basketball,500 bucks,500.0,numeric
+83,Soccer,Nothing more than 400,,ambiguous_multiple
+83,Baseball,200,200.0,numeric
+83,Basketball,Less than 400,400.0,numeric
+84,Soccer,"- If it's world competition: 1000-3000 Canadian Dollars
+- Europe Leagues: 800-1500 Canadian Dollars",,ambiguous_multiple
+84,Baseball,100-150 Canadian dollars.,125.0,range
+84,Basketball,300-500 CAD,400.0,range
+85,Soccer,$20-50,35.0,range
+85,Baseball,50-150,100.0,range
+85,Basketball,40-120,80.0,range
+86,Soccer,300,300.0,numeric
+86,Baseball,300,300.0,numeric
+86,Basketball,350,350.0,numeric
+88,Soccer,1000,1000.0,numeric
+88,Baseball,100,100.0,numeric
+88,Basketball,1200,1200.0,numeric
+89,Soccer,500CAD,500.0,numeric
+89,Baseball,200CAD,200.0,numeric
+89,Basketball,300CAD,300.0,numeric
+90,Soccer,400 - 800 dollars,600.0,range
+90,Baseball,35-100 dollars,67.5,range
+90,Basketball,100-200 dollars,150.0,range
+91,Soccer,1000,1000.0,numeric
+91,Baseball,40,40.0,numeric
+91,Basketball,500,500.0,numeric
+92,Soccer,100 CAD,100.0,numeric
+92,Baseball,50 CAD,50.0,numeric
+92,Basketball,100$,100.0,numeric
+93,Soccer,0 dollars,0.0,numeric
+93,Baseball,0,0.0,numeric
+93,Basketball,0,0.0,numeric
+94,Soccer,"I would spend $100 to scratch it off of my bucket list but good tickets to major games/events can go for $10,000+.",,ambiguous_multiple
+94,Baseball,Maybe $80. There are a lot of games in a year so it isn't that difficult to get tickets.,80.0,numeric
+94,Basketball,"I would spend $250 for decent seats to a significant game for this sport. Unfortunately, our local team doesn't always consistently perform so I would maybe wait for a year where they are more successful before scratching this off of my bucket list.",250.0,numeric
+95,Soccer, $200,200.0,numeric
+95,Baseball,$200 ,200.0,numeric
+95,Basketball,$200 ,200.0,numeric
+96,Soccer,200 dollars,200.0,numeric
+96,Baseball,100 dollars,100.0,numeric
+96,Basketball,200 dollars,200.0,numeric
+97,Soccer,100 CAD,100.0,numeric
+97,Baseball,30,30.0,numeric
+97,Basketball,100,100.0,numeric
+98,Soccer,400,400.0,numeric
+98,Baseball,60,60.0,numeric
+98,Basketball,100,100.0,numeric
+99,Soccer,350,350.0,numeric
+99,Baseball,150,150.0,numeric
+99,Basketball,250,250.0,numeric
+101,Soccer,$120 ,120.0,numeric
+101,Baseball,$80 ,80.0,numeric
+101,Basketball,$150 ,150.0,numeric
+102,Soccer,$500 ,500.0,numeric
+102,Baseball,$200 ,200.0,numeric
+102,Basketball,$700 ,700.0,numeric
+103,Soccer,200$,200.0,numeric
+103,Baseball,50$,50.0,numeric
+103,Basketball,100$,100.0,numeric
+104,Soccer,"$2000, (have done before)",2000.0,numeric
+104,Baseball,$50 ,50.0,numeric
+104,Basketball,$200 ,200.0,numeric
+108,Soccer,No more than 50 CAD,50.0,numeric
+108,Baseball,25 CAD Maximum,25.0,numeric
+108,Basketball,Up to 100CAD,100.0,numeric
+109,Soccer,300,300.0,numeric
+109,Baseball,150,150.0,numeric
+109,Basketball,200,200.0,numeric
+110,Soccer,1000,1000.0,numeric
+110,Baseball,800,800.0,numeric
+110,Basketball,2000,2000.0,numeric
+111,Soccer,100,100.0,numeric
+111,Baseball,1,1.0,numeric
+111,Basketball,10,10.0,numeric
+112,Soccer,1000,1000.0,numeric
+112,Baseball,80,80.0,numeric
+112,Basketball,100,100.0,numeric
+113,Soccer,0,0.0,numeric
+113,Baseball,0,0.0,numeric
+113,Basketball,0,0.0,numeric
+114,Soccer,$0 ,0.0,numeric
+114,Baseball,$0 ,0.0,numeric
+114,Basketball,$0 ,0.0,numeric
+115,Soccer,500 CAD,500.0,numeric
+115,Baseball,300 CAD,300.0,numeric
+115,Basketball,1000 CAD,1000.0,numeric
+117,Soccer,0,0.0,numeric
+117,Baseball,10,10.0,numeric
+117,Basketball,10,10.0,numeric
+118,Soccer,200,200.0,numeric
+118,Baseball,20,20.0,numeric
+118,Basketball,100,100.0,numeric
+119,Soccer,400cad,400.0,numeric
+119,Baseball,,,blank
+119,Basketball,,,blank
+120,Soccer,50,50.0,numeric
+120,Baseball,50,50.0,numeric
+120,Basketball,100,100.0,numeric
+121,Soccer,$300 CAD,300.0,numeric
+121,Baseball,$50 CAD,50.0,numeric
+121,Basketball,$275 CAD,275.0,numeric
+124,Soccer,$500 ,500.0,numeric
+124,Baseball,$100 ,100.0,numeric
+124,Basketball,$300 ,300.0,numeric
+126,Soccer,$100 ,100.0,numeric
+126,Baseball,$40 ,40.0,numeric
+126,Basketball,$100 ,100.0,numeric
+128,Soccer,15$,15.0,numeric
+128,Baseball,15,15.0,numeric
+128,Basketball,20,20.0,numeric
+129,Soccer,100 cad,100.0,numeric
+129,Baseball,100 cad,100.0,numeric
+129,Basketball,100 cad,100.0,numeric
+130,Soccer,600,600.0,numeric
+130,Baseball,200,200.0,numeric
+130,Basketball,200,200.0,numeric
+131,Soccer,200$ but only because I don't care about the sport this much.,200.0,numeric
+131,Baseball,$50-$100,75.0,range
+131,Basketball,100-200$,150.0,range
+132,Soccer,At most 200 CAD. ,200.0,numeric
+132,Baseball,At most 150 CAD,150.0,numeric
+132,Basketball,Up to 400 CAD,400.0,numeric
+134,Soccer,Hundreds of dollars,,unparsed_text
+134,Baseball,Hundreds of dollars,,unparsed_text
+134,Basketball,Hundreds of dollars,,unparsed_text
+136,Soccer,800-1000 CAD,900.0,range
+136,Baseball,80-100 CAD,90.0,range
+136,Basketball,200-300 CAD,250.0,range
+137,Soccer,200 CAD,200.0,numeric
+137,Baseball,50 CAD,50.0,numeric
+137,Basketball,200 CAD,200.0,numeric
+138,Soccer,300 dollars.,300.0,numeric
+138,Baseball,100 dollars.,100.0,numeric
+138,Basketball,200 dollars,200.0,numeric
+139,Soccer,0,0.0,numeric
+139,Baseball,0,0.0,numeric
+139,Basketball,0,0.0,numeric
+141,Soccer,200$,200.0,numeric
+141,Baseball,$20 ,20.0,numeric
+141,Basketball,$200 ,200.0,numeric
+142,Soccer,Unwilling,0.0,refusal
+142,Baseball,Unwilling,0.0,refusal
+142,Basketball,Unwilling,0.0,refusal
+143,Soccer,$300 ,300.0,numeric
+143,Baseball,$30 ,30.0,numeric
+143,Basketball,$50 ,50.0,numeric
+144,Soccer,100,100.0,numeric
+144,Baseball,50,50.0,numeric
+144,Basketball,80,80.0,numeric
+146,Soccer,200,200.0,numeric
+146,Baseball,100,100.0,numeric
+146,Basketball,200,200.0,numeric
+147,Soccer,600,600.0,numeric
+147,Baseball,300,300.0,numeric
+147,Basketball,800,800.0,numeric
+148,Soccer,100,100.0,numeric
+148,Baseball,60,60.0,numeric
+148,Basketball,150,150.0,numeric
+149,Soccer,200,200.0,numeric
+149,Baseball,50,50.0,numeric
+149,Basketball,100,100.0,numeric
+150,Soccer,$100 ,100.0,numeric
+150,Baseball,$70 ,70.0,numeric
+150,Basketball,$90 ,90.0,numeric
+151,Soccer,150$,150.0,numeric
+151,Baseball,80$,80.0,numeric
+151,Basketball,150$,150.0,numeric
+152,Soccer,$50 ,50.0,numeric
+152,Baseball,$10 ,10.0,numeric
+152,Basketball,$70 ,70.0,numeric
+153,Soccer,$150 ,150.0,numeric
+153,Baseball,$35 ,35.0,numeric
+153,Basketball,$100 ,100.0,numeric
+154,Soccer,200,200.0,numeric
+154,Baseball,$30 ,30.0,numeric
+154,Basketball,$200 ,200.0,numeric
+155,Soccer,$500 - $750,625.0,range
+155,Baseball,$80 - $100,90.0,range
+155,Basketball,$100 - $300,200.0,range
+156,Soccer,120 Canadian dollars,120.0,numeric
+156,Baseball,90 Canadian dollars,90.0,numeric
+156,Basketball,150 Canadian dollars,150.0,numeric
+158,Soccer,100,100.0,numeric
+158,Baseball,50,50.0,numeric
+158,Basketball,200,200.0,numeric
+159,Soccer,$100 ,100.0,numeric
+159,Baseball,$0 ,0.0,numeric
+159,Basketball,$300 ,300.0,numeric
+160,Soccer,Within an order of magnitude of $100,100.0,numeric
+160,Baseball,$20 max,20.0,numeric
+160,Basketball,Couple hundred bucks ,,unparsed_text
+161,Soccer,300$,300.0,numeric
+161,Baseball,50$,50.0,numeric
+161,Basketball,200$,200.0,numeric
+162,Soccer,150,150.0,numeric
+162,Baseball,30,30.0,numeric
+162,Basketball,200,200.0,numeric
+163,Soccer,$20 ,20.0,numeric
+163,Baseball,$20 ,20.0,numeric
+163,Basketball,$20 ,20.0,numeric
+164,Soccer,0,0.0,numeric
+164,Baseball,0,0.0,numeric
+164,Basketball,0,0.0,numeric
+165,Soccer,0,0.0,numeric
+165,Baseball,0,0.0,numeric
+165,Basketball,0,0.0,numeric
+166,Soccer,1000,1000.0,numeric
+166,Baseball,300,300.0,numeric
+166,Basketball,150,150.0,numeric
+167,Soccer,100 dollars,100.0,numeric
+167,Baseball,30,30.0,numeric
+167,Basketball,300 dollars,300.0,numeric
+170,Soccer,$100 ,100.0,numeric
+170,Baseball,75 CAD,75.0,numeric
+170,Basketball,75 CAD,75.0,numeric
+171,Soccer,0,0.0,numeric
+171,Baseball,0,0.0,numeric
+171,Basketball,100,100.0,numeric
+174,Soccer,$100 at most.,100.0,numeric
+174,Baseball,$80 bucks at most,80.0,numeric
+174,Basketball,$100-$250 depending on the teams.,175.0,range
+175,Soccer,300,300.0,numeric
+175,Baseball,100,100.0,numeric
+175,Basketball,200,200.0,numeric
+177,Soccer,500,500.0,numeric
+177,Baseball,20,20.0,numeric
+177,Basketball,200,200.0,numeric
+178,Soccer,200,200.0,numeric
+178,Baseball,50,50.0,numeric
+178,Basketball,100,100.0,numeric
+179,Soccer,I would pay a couple hundreds depending on what kind of match it is and who is playing.,,unparsed_text
+179,Baseball,I would not pay that much not more than 100 CAD.,,ambiguous_multiple
+179,Basketball,I would pay a good amount of money around 100s if it is for a game against two strong teams.,100.0,numeric
+181,Soccer,0,0.0,numeric
+181,Baseball,0,0.0,numeric
+181,Basketball,0,0.0,numeric
+182,Soccer,100,100.0,numeric
+182,Baseball,50,50.0,numeric
+182,Basketball,75,75.0,numeric
+183,Soccer,50,50.0,numeric
+183,Baseball,20,20.0,numeric
+183,Basketball,20,20.0,numeric
+184,Soccer,50,50.0,numeric
+184,Baseball,20,20.0,numeric
+184,Basketball,20,20.0,numeric
+185,Soccer,50 CAD,50.0,numeric
+185,Baseball,30 CAD,30.0,numeric
+185,Basketball,30 CAD,30.0,numeric
+186,Soccer,"除非我的国家队晋级[a competition]，否则我不会花一美元——在这种情况下，我愿意支付的金额等于票价乘以几乎为零的概率。
+
+（但我运气好得有点奇怪，很多我认为完全不可能的事情都发生了——比如绿洲乐队重组。所以，概率或许并非为零。）",,unparsed_text
+186,Baseball,"I won't go see the game, but if I absolutely have to, I'll pay the regular price—or even a discounted one.",0.0,refusal
+186,Basketball,"The tickets are way too hard to grab, so forget it—none of my friends even play [this sport] anyway.",0.0,refusal
+187,Soccer,I would be willing to pay $400-$500 for a good seat at a major match of the season,450.0,range
+187,Baseball,$400 for a good seat at a playoff game.,400.0,numeric
+187,Basketball,$600 for a seat close to the court.,600.0,numeric
+188,Soccer,$5000 to $1000,,ambiguous_multiple
+188,Baseball,$5000 to $1000,,ambiguous_multiple
+188,Basketball,$2000 to $500,,ambiguous_multiple
+189,Soccer,0,0.0,numeric
+189,Baseball,0,0.0,numeric
+189,Basketball,0,0.0,numeric
+190,Soccer,50 Canadian dollars,50.0,numeric
+190,Baseball,30 Canadian dollars,30.0,numeric
+190,Basketball,60 Canadian dollars,60.0,numeric
+191,Soccer,$100 CAD,100.0,numeric
+191,Baseball,$100 CAD,100.0,numeric
+191,Basketball,$150 CAD,150.0,numeric
+192,Soccer,500 dollars,500.0,numeric
+192,Baseball,80 dollars,80.0,numeric
+192,Basketball,500 dollars,500.0,numeric
+194,Soccer,$50 ,50.0,numeric
+194,Baseball,$40 ,40.0,numeric
+194,Basketball,$100 ,100.0,numeric
+195,Soccer,$300 ,300.0,numeric
+195,Baseball,$50 ,50.0,numeric
+195,Basketball,$200 ,200.0,numeric
+197,Soccer,1000$,1000.0,numeric
+197,Baseball,300$,300.0,numeric
+197,Basketball,1000$,1000.0,numeric
+198,Soccer,1000,1000.0,numeric
+198,Baseball,50,50.0,numeric
+198,Basketball,500,500.0,numeric
+199,Soccer,Around $150–200 for a solid seat at a high-level professional match.,175.0,range
+199,Baseball,Around $80.,80.0,numeric
+199,Basketball,Around $150–200.,175.0,range
+200,Soccer,0,0.0,numeric
+200,Baseball,0,0.0,numeric
+200,Basketball,0,0.0,numeric
+201,Soccer,300 dollars,300.0,numeric
+201,Baseball,150 dollars,150.0,numeric
+201,Basketball,400 dollars,400.0,numeric
+203,Soccer,$100 ,100.0,numeric
+203,Baseball,$100 ,100.0,numeric
+203,Basketball,$100 ,100.0,numeric
+205,Soccer,$200 ,200.0,numeric
+205,Baseball,$50 ,50.0,numeric
+205,Basketball,$50 ,50.0,numeric
+206,Soccer,1k,1000.0,numeric
+206,Baseball,0,0.0,numeric
+206,Basketball,5k,5000.0,numeric
+207,Soccer,300,300.0,numeric
+207,Baseball,150,150.0,numeric
+207,Basketball,100,100.0,numeric
+208,Soccer,none,0.0,refusal
+208,Baseball,none,0.0,refusal
+208,Basketball,none,0.0,refusal
+209,Soccer,CAD 1500,1500.0,numeric
+209,Baseball,CAD 1000,1000.0,numeric
+209,Basketball,CAD 1200,1200.0,numeric
+210,Soccer,500$,500.0,numeric
+210,Baseball,50$,50.0,numeric
+210,Basketball,500$,500.0,numeric
+211,Soccer,0,0.0,numeric
+211,Baseball,0,0.0,numeric
+211,Basketball,0,0.0,numeric
+215,Soccer,$200 ,200.0,numeric
+215,Baseball,$50 ,50.0,numeric
+215,Basketball,$250 ,250.0,numeric
+216,Soccer,100,100.0,numeric
+216,Baseball,100,100.0,numeric
+216,Basketball,500,500.0,numeric
+217,Soccer,Nothing,0.0,refusal
+217,Baseball,Nothing,0.0,refusal
+217,Basketball,1€,,foreign_currency
+218,Soccer,$250 ,250.0,numeric
+218,Baseball,$50 ,50.0,numeric
+218,Basketball,$300 ,300.0,numeric
+219,Soccer,$200 CAD,200.0,numeric
+219,Baseball,$50 ,50.0,numeric
+219,Basketball,$200 ,200.0,numeric
+220,Soccer,100 dollars,100.0,numeric
+220,Baseball,0 dollar,0.0,numeric
+220,Basketball,200 dollars,200.0,numeric
+221,Soccer,1 to 10 scale i will put a 2 as the ticket price is too high and i prefer to watch it online instead of in person.,,ambiguous_multiple
+221,Baseball,1 to 10 scale i will choose 2 since im a person that enjoy watching sports online,,ambiguous_multiple
+221,Basketball,1 to 10 scale probably 1,,ambiguous_multiple
+222,Soccer,300 dollars,300.0,numeric
+222,Baseball,300 dollars,300.0,numeric
+222,Basketball,300 dollars,300.0,numeric
+223,Soccer,$100 ,100.0,numeric
+223,Baseball,$50 ,50.0,numeric
+223,Basketball,$100 ,100.0,numeric
+225,Soccer,80,80.0,numeric
+225,Baseball,30,30.0,numeric
+225,Basketball,120,120.0,numeric
+226,Soccer,"Depends on the game, a big final $1000
+
+A normal but good game $200",,ambiguous_multiple
+226,Baseball,$50 ,50.0,numeric
+226,Basketball,$50 ,50.0,numeric
+227,Soccer,50$,50.0,numeric
+227,Baseball,50$,50.0,numeric
+227,Basketball,100$,100.0,numeric
+229,Soccer,0,0.0,numeric
+229,Baseball,0,0.0,numeric
+229,Basketball,10,10.0,numeric
+230,Soccer,400cad,400.0,numeric
+230,Baseball,200cad,200.0,numeric
+230,Basketball,300cad,300.0,numeric
+231,Soccer,200CAD,200.0,numeric
+231,Baseball,80$,80.0,numeric
+231,Basketball,10$,10.0,numeric
+232,Soccer,500,500.0,numeric
+232,Baseball,50,50.0,numeric
+232,Basketball,100,100.0,numeric
+233,Soccer,400,400.0,numeric
+233,Baseball,250,250.0,numeric
+233,Basketball,500,500.0,numeric
+234,Soccer,800,800.0,numeric
+234,Baseball,400,400.0,numeric
+234,Basketball,600,600.0,numeric
+235,Soccer,$60 ,60.0,numeric
+235,Baseball,$20 ,20.0,numeric
+235,Basketball,$60 ,60.0,numeric
+236,Soccer,$100 ,100.0,numeric
+236,Baseball,$50 ,50.0,numeric
+236,Basketball,$50 ,50.0,numeric
+237,Soccer,$100 ,100.0,numeric
+237,Baseball,$100 ,100.0,numeric
+237,Basketball,$100 ,100.0,numeric
+239,Soccer,1000,1000.0,numeric
+239,Baseball,500,500.0,numeric
+239,Basketball,1000,1000.0,numeric
+240,Soccer,100,100.0,numeric
+240,Baseball,30,30.0,numeric
+240,Basketball,20,20.0,numeric
+241,Soccer,Around $300 for a good view and a lively atmosphere,300.0,numeric
+241,Baseball,I wouldnt pay for this sport as I don't enjoy it,0.0,refusal
+241,Basketball,Around CAD $200 for a decent seat at a game I was excited to attend,200.0,numeric
+242,Soccer,$100 ,100.0,numeric
+242,Baseball,$15 ,15.0,numeric
+242,Basketball,$20 ,20.0,numeric
+243,Soccer,200,200.0,numeric
+243,Baseball,100,100.0,numeric
+243,Basketball,150,150.0,numeric
+245,Soccer,120,120.0,numeric
+245,Baseball,50,50.0,numeric
+245,Basketball,200,200.0,numeric
+247,Soccer,50 dollars.,50.0,numeric
+247,Baseball,40 dollars.,40.0,numeric
+247,Basketball,80 dollars.,80.0,numeric
+248,Soccer,200,200.0,numeric
+248,Baseball,100,100.0,numeric
+248,Basketball,150,150.0,numeric
+249,Soccer,50 CAD,50.0,numeric
+249,Baseball,0,0.0,numeric
+249,Basketball,400CAD,400.0,numeric
+250,Soccer,$150 ,150.0,numeric
+250,Baseball,$60 ,60.0,numeric
+250,Basketball,$100 ,100.0,numeric
+251,Soccer,50,50.0,numeric
+251,Baseball,30,30.0,numeric
+251,Basketball,50,50.0,numeric
+253,Soccer,None,0.0,refusal
+253,Baseball,None,0.0,refusal
+253,Basketball,$150 ,150.0,numeric
+254,Soccer,$300 ,300.0,numeric
+254,Baseball,$100 ,100.0,numeric
+254,Basketball,$400 ,400.0,numeric
+255,Soccer,120,120.0,numeric
+255,Baseball,80,80.0,numeric
+255,Basketball,70,70.0,numeric
+257,Soccer,not much if at all,,unparsed_text
+257,Baseball,a bit more since it gives you higher chance to see the swing and maybe catch the ball,,unparsed_text
+257,Basketball,A bit more than usual to see close ups and players technique,,unparsed_text
+258,Soccer,,,blank
+258,Baseball,,,blank
+258,Basketball,,,blank
+259,Soccer,I’d be willing to pay about $100 for a decent seat at a professional [this sport] match.,100.0,numeric
+259,Baseball,$80 ,80.0,numeric
+259,Basketball,$120 ,120.0,numeric
+260,Soccer,$400 ,400.0,numeric
+260,Baseball,$50 ,50.0,numeric
+260,Basketball,$500 ,500.0,numeric
+261,Soccer,200,200.0,numeric
+261,Baseball,100,100.0,numeric
+261,Basketball,200,200.0,numeric
+262,Soccer,0,0.0,numeric
+262,Baseball,0,0.0,numeric
+262,Basketball,0,0.0,numeric
+263,Soccer,$200 ,200.0,numeric
+263,Baseball,$100 ,100.0,numeric
+263,Basketball,$200 ,200.0,numeric
+264,Soccer,$300 ,300.0,numeric
+264,Baseball,$50 ,50.0,numeric
+264,Basketball,$200 ,200.0,numeric
+265,Soccer,100,100.0,numeric
+265,Baseball,100,100.0,numeric
+265,Basketball,100,100.0,numeric
+266,Soccer,150,150.0,numeric
+266,Baseball,25 ,25.0,numeric
+266,Basketball,125,125.0,numeric
+267,Soccer,Around $100 CAD,100.0,numeric
+267,Baseball,,,blank
+267,Basketball,,,blank
+269,Soccer,500 dollar,500.0,numeric
+269,Baseball,300,300.0,numeric
+269,Basketball,400,400.0,numeric
+270,Soccer,$300 ,300.0,numeric
+270,Baseball,$50 ,50.0,numeric
+270,Basketball,$300 ,300.0,numeric
+271,Soccer,200,200.0,numeric
+271,Baseball,300,300.0,numeric
+271,Basketball,200,200.0,numeric
+272,Soccer,1200,1200.0,numeric
+272,Baseball,200,200.0,numeric
+272,Basketball,150,150.0,numeric
+273,Soccer,"$200, $500 for a great game",,ambiguous_multiple
+273,Baseball,$150-$250,200.0,range
+273,Basketball,$150-$250,200.0,range
+274,Soccer,$50 ,50.0,numeric
+274,Baseball,$50 ,50.0,numeric
+274,Basketball,$100 ,100.0,numeric
+275,Soccer,Somewhat willing,,unparsed_text
+275,Baseball,Very willing as most action is in one place,,unparsed_text
+275,Basketball,Very willing,,unparsed_text
+276,Soccer,$500 ,500.0,numeric
+276,Baseball,200,200.0,numeric
+276,Basketball,500,500.0,numeric
+277,Soccer,$5 ,5.0,numeric
+277,Baseball,$5 ,5.0,numeric
+277,Basketball,$30 ,30.0,numeric
+278,Soccer,none,0.0,refusal
+278,Baseball,none,0.0,refusal
+278,Basketball,none,0.0,refusal
+279,Soccer,$150 CAD,150.0,numeric
+279,Baseball,$60 CAD,60.0,numeric
+279,Basketball,$80 CAD,80.0,numeric
+280,Soccer,40 dollars,40.0,numeric
+280,Baseball,30 dollars,30.0,numeric
+280,Basketball,50 dollars,50.0,numeric
+281,Soccer,500 dollars ,500.0,numeric
+281,Baseball,50 dollars.,50.0,numeric
+281,Basketball,500 dollars ,500.0,numeric
+283,Soccer,500,500.0,numeric
+283,Baseball,200,200.0,numeric
+283,Basketball,400,400.0,numeric
+284,Soccer,$90 ,90.0,numeric
+284,Baseball,$110 ,110.0,numeric
+284,Basketball,250,250.0,numeric
+287,Soccer,30 CAD because I'm broke,30.0,numeric
+287,Baseball,5 CAD because I dont watch this,5.0,numeric
+287,Basketball,20 CAD,20.0,numeric
+288,Soccer,I would personally pay at most maybe 300$.,300.0,numeric
+288,Baseball,20$,20.0,numeric
+288,Basketball,$500 ,500.0,numeric
+289,Soccer,Around 300CAD,300.0,numeric
+289,Baseball,100CAD,100.0,numeric
+289,Basketball,200CAD,200.0,numeric
+290,Soccer,under 100,100.0,numeric
+290,Baseball,250,250.0,numeric
+290,Basketball,400,400.0,numeric

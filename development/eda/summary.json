@@ -1,0 +1,292 @@
+{
+  "scope": "EDA training only: respondents with outer_fold != 0; development data, not a clean historical holdout protocol",
+  "rows": 696,
+  "respondents": 232,
+  "features": 73,
+  "binary_features": 68,
+  "class_counts": {
+    "Baseball": 232,
+    "Basketball": 232,
+    "Soccer": 232
+  },
+  "raw_feature_audit": [
+    {
+      "feature": "ease",
+      "type": "bounded numeric",
+      "rows": 696,
+      "blank_count": 7,
+      "blank_percent": 1.0057471264367817,
+      "distinct_nonblank": 12,
+      "median_text_length": 1.0
+    },
+    {
+      "feature": "strategy",
+      "type": "ordinal Likert",
+      "rows": 696,
+      "blank_count": 8,
+      "blank_percent": 1.1494252873563218,
+      "distinct_nonblank": 5,
+      "median_text_length": 5.0
+    },
+    {
+      "feature": "injury",
+      "type": "ordinal Likert",
+      "rows": 696,
+      "blank_count": 7,
+      "blank_percent": 1.0057471264367817,
+      "distinct_nonblank": 5,
+      "median_text_length": 7.0
+    },
+    {
+      "feature": "brilliance",
+      "type": "ordinal Likert",
+      "rows": 696,
+      "blank_count": 8,
+      "blank_percent": 1.1494252873563218,
+      "distinct_nonblank": 5,
+      "median_text_length": 7.0
+    },
+    {
+      "feature": "where",
+      "type": "multi-select",
+      "rows": 696,
+      "blank_count": 7,
+      "blank_percent": 1.0057471264367817,
+      "distinct_nonblank": 56,
+      "median_text_length": 104.0
+    },
+    {
+      "feature": "seasons",
+      "type": "multi-select",
+      "rows": 696,
+      "blank_count": 7,
+      "blank_percent": 1.0057471264367817,
+      "distinct_nonblank": 12,
+      "median_text_length": 18.0
+    },
+    {
+      "feature": "music",
+      "type": "multi-select",
+      "rows": 696,
+      "blank_count": 7,
+      "blank_percent": 1.0057471264367817,
+      "distinct_nonblank": 99,
+      "median_text_length": 18.0
+    },
+    {
+      "feature": "food",
+      "type": "free text",
+      "rows": 696,
+      "blank_count": 9,
+      "blank_percent": 1.293103448275862,
+      "distinct_nonblank": 524,
+      "median_text_length": 16.0
+    },
+    {
+      "feature": "colour",
+      "type": "free text",
+      "rows": 696,
+      "blank_count": 7,
+      "blank_percent": 1.0057471264367817,
+      "distinct_nonblank": 178,
+      "median_text_length": 5.0
+    },
+    {
+      "feature": "song",
+      "type": "free text",
+      "rows": 696,
+      "blank_count": 15,
+      "blank_percent": 2.1551724137931036,
+      "distinct_nonblank": 425,
+      "median_text_length": 17.0
+    },
+    {
+      "feature": "feel",
+      "type": "free text",
+      "rows": 696,
+      "blank_count": 8,
+      "blank_percent": 1.1494252873563218,
+      "distinct_nonblank": 394,
+      "median_text_length": 9.0
+    },
+    {
+      "feature": "pay",
+      "type": "free-text monetary amount",
+      "rows": 696,
+      "blank_count": 7,
+      "blank_percent": 1.0057471264367817,
+      "distinct_nonblank": 264,
+      "median_text_length": 4.0
+    }
+  ],
+  "imputation": {
+    "ease": 5.0,
+    "pay": 100.0
+  },
+  "numeric": {
+    "ease": {
+      "mean": 5.404454022988506,
+      "std": 2.3170920104591084,
+      "minimum": 0.0,
+      "maximum": 10.0
+    },
+    "strategy": {
+      "mean": 3.778735632183908,
+      "std": 0.9181818814478797,
+      "minimum": 1.0,
+      "maximum": 5.0
+    },
+    "injury": {
+      "mean": 3.5014367816091956,
+      "std": 1.022057850238965,
+      "minimum": 1.0,
+      "maximum": 5.0
+    },
+    "brilliance": {
+      "mean": 3.4051724137931036,
+      "std": 1.1160963441241991,
+      "minimum": 1.0,
+      "maximum": 5.0
+    },
+    "pay_log": {
+      "mean": 4.285894756970942,
+      "std": 1.883857582684103,
+      "minimum": 0.0,
+      "maximum": 9.210440366976517
+    }
+  },
+  "pay_parse_counts": {
+    "numeric": 597,
+    "range": 30,
+    "refusal": 27,
+    "ambiguous_multiple": 16,
+    "unparsed_text": 15,
+    "blank": 7,
+    "written_number": 3,
+    "foreign_currency": 1
+  },
+  "pay_imputed_rows": 39,
+  "ease_invalid_or_blank_rows": 7,
+  "ease_outside_0_10_rows": 0,
+  "likert_unknown": {
+    "strategy": {
+      "blank": 8,
+      "unrecognized_nonblank": 0
+    },
+    "injury": {
+      "blank": 7,
+      "unrecognized_nonblank": 0
+    },
+    "brilliance": {
+      "blank": 8,
+      "unrecognized_nonblank": 0
+    }
+  },
+  "unknown_multiselect_options": {
+    "where": {},
+    "seasons": {},
+    "music": {}
+  },
+  "keyword_coverage": {
+    "food": {
+      "matched_rows": 665,
+      "percent_all_training_rows": 95.54597701149426,
+      "percent_nonblank_training_rows": 96.79767103347889,
+      "blank_rows": 9,
+      "unmatched_nonblank_top10": {
+        "Monster drink": 1,
+        "Any food": 1,
+        "I haven't ever watched it before.": 1,
+        "shawarma and cold drinks": 1,
+        "Donuts": 1,
+        "Perhaps some refreshments for the athletes but I do not associate any food or drink with the viewing experience.": 1,
+        "Scran": 1,
+        "Drink tea and smoke shisha": 1,
+        "\ud83c\udf7a": 1,
+        "Takeout/Doordash anything": 1
+      }
+    },
+    "colour": {
+      "matched_rows": 668,
+      "percent_all_training_rows": 95.97701149425288,
+      "percent_nonblank_training_rows": 96.9521044992743,
+      "blank_rows": 7,
+      "unmatched_nonblank_top10": {
+        "None": 3,
+        "All colours": 2,
+        "\u7eff\u8272\u7684": 2,
+        "Dark major colours of the rainbow": 2,
+        "golden": 1,
+        "#NAME?": 1,
+        "N/A, since I know nothing about it at all": 1,
+        "any": 1,
+        "No idea": 1,
+        "navy": 1
+      }
+    },
+    "feel": {
+      "matched_rows": 625,
+      "percent_all_training_rows": 89.79885057471265,
+      "percent_nonblank_training_rows": 90.84302325581395,
+      "blank_rows": 8,
+      "unmatched_nonblank_top10": {
+        "not my type": 3,
+        "Dopamine release": 3,
+        "I don\u2019t feel much in particular": 3,
+        "none": 2,
+        "emotional": 2,
+        "Cool": 2,
+        "exictement": 1,
+        "Waiting for an advertisement to finish": 1,
+        "introspective": 1,
+        "Cool, but will be tired very quickly.": 1
+      }
+    },
+    "song": {
+      "matched_rows": 248,
+      "percent_all_training_rows": 35.63218390804598,
+      "percent_nonblank_training_rows": 36.41703377386197,
+      "blank_rows": 15,
+      "unmatched_nonblank_top10": {
+        "None": 27,
+        "N/A": 13,
+        "none": 10,
+        "No particular song": 9,
+        "NA": 7,
+        "No idea": 5,
+        "n/a": 5,
+        "We Will Rock You": 5,
+        "no": 5,
+        "Sirius": 4
+      }
+    }
+  },
+  "outliers": {
+    "ease_raw": {
+      "minimum": 0.0,
+      "maximum": 10.0,
+      "iqr_outlier_count": 0
+    },
+    "pay_parsed": {
+      "minimum": 0.0,
+      "maximum": 10000.0,
+      "iqr_outlier_count": 81
+    }
+  },
+  "top_binary_class_ranges": {
+    "where_indoor_facility": 0.7155172413793103,
+    "song_waka": 0.5775862068965517,
+    "music_hip_hop_or_rap": 0.5732758620689655,
+    "season_winter": 0.5301724137931034,
+    "where_at_home_or_nearby": 0.5301724137931034,
+    "colour_orange": 0.5258620689655172,
+    "colour_green": 0.5172413793103449,
+    "colour_blue": 0.48275862068965514
+  },
+  "limitations": [
+    "Prior manual dictionary design has unknown respondent exposure.",
+    "Validation responses were explored for the proposal.",
+    "The reported EDA excludes outer fold 0 now; this does not erase historical exposure.",
+    "No accuracy or generalization claim follows from these descriptive feature statistics."
+  ]
+}

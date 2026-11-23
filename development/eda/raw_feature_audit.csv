@@ -1,0 +1,13 @@
+feature,type,rows,blank_count,blank_percent,distinct_nonblank,median_text_length
+ease,bounded numeric,696,7,1.0057471264367817,12,1.0
+strategy,ordinal Likert,696,8,1.1494252873563218,5,5.0
+injury,ordinal Likert,696,7,1.0057471264367817,5,7.0
+brilliance,ordinal Likert,696,8,1.1494252873563218,5,7.0
+where,multi-select,696,7,1.0057471264367817,56,104.0
+seasons,multi-select,696,7,1.0057471264367817,12,18.0
+music,multi-select,696,7,1.0057471264367817,99,18.0
+food,free text,696,9,1.293103448275862,524,16.0
+colour,free text,696,7,1.0057471264367817,178,5.0
+song,free text,696,15,2.1551724137931036,425,17.0
+feel,free text,696,8,1.1494252873563218,394,9.0
+pay,free-text monetary amount,696,7,1.0057471264367817,264,4.0
