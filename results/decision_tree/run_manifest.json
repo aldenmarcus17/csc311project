@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "status": "complete",
+  "model_family": "decision_tree",
+  "started_at_utc": "2026-11-23T20:44:07.482825+00:00",
+  "base_commit": null,
+  "source_sha256_normalized": "0c0bf71aa0e814cd4af2bc6dbc8310e8c92185d9950ff84982d31f2a712b4bdf",
+  "source_sha256_bytes": "0c0bf71aa0e814cd4af2bc6dbc8310e8c92185d9950ff84982d31f2a712b4bdf",
+  "protocol_sha256": "a7d453894e8b14065fd66c8bb06791c7f627baef838d9b4db7622e2a62775034",
+  "feature_specification_sha256": "815575bd0e1902afce5e9040c4a6e776236376c84a38596b6f282268458aa996",
+  "contract_sha256": "d7a9a859b745437a86d2ec1f3af1abbc82b863dbea498d9865d85b932713ac52",
+  "class_order": [
+    "Baseball",
+    "Basketball",
+    "Soccer"
+  ],
+  "feature_order": [
+    "ease",
+    "strategy",
+    "injury",
+    "brilliance",
+    "where_indoor_facility",
+    "where_outdoor_public_space",
+    "where_school_or_university_facility",
+    "where_community_recreation_facility",
+    "where_private_sports_facility",
+    "where_at_home_or_nearby",
+    "where_others",
+    "season_winter",
+    "season_spring",
+    "season_summer",
+    "season_fall",
+    "music_hip_hop_or_rap",
+    "music_latin",
+    "music_folk_or_traditional",
+    "music_pop",
+    "music_rock",
+    "music_electronic_or_dance",
+    "music_no_particular_type",
+    "music_classical_or_jazz",
+    "music_country",
+    "music_other",
+    "food_hotdog",
+    "food_popcorn",
+    "food_beer",
+    "food_soda",
+    "food_pizza",
+    "food_fries",
+    "food_chips",
+    "food_nachos",
+    "food_burger",
+    "food_wings",
+    "food_chicken",
+    "food_peanuts",
+    "food_sunflower",
+    "food_pretzel",
+    "food_water",
+    "food_sports_drink",
+    "food_poutine",
+    "food_sandwich",
+    "food_fish",
+    "food_taco",
+    "food_bbq",
+    "food_sausage",
+    "food_snacks",
+    "food_none",
+    "colour_red",
+    "colour_blue",
+    "colour_green",
+    "colour_white",
+    "colour_black",
+    "colour_orange",
+    "colour_yellow",
+    "colour_brown",
+    "colour_purple",
+    "colour_grey",
+    "song_waka",
+    "song_baseball",
+    "song_hiphop",
+    "song_named",
+    "pay_log",
+    "feel_excited",
+    "feel_bored",
+    "feel_tense",
+    "feel_happy",
+    "feel_calm",
+    "feel_indifferent",
+    "feel_curious",
+    "feel_confused",
+    "feel_none"
+  ],
+  "scale_numeric": false,
+  "python": "3.13.2",
+  "numpy": "2.2.2",
+  "pandas": "2.2.3",
+  "sklearn": "1.7.2",
+  "initial_candidates": [
+    {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    }
+  ],
+  "model_description": {
+    "criterion": "gini",
+    "splitter": "best",
+    "tie_key": "shallower depth, then larger minimum leaf size",
+    "expansion": "Once only: add depth 2 if depth 3 wins, and leaf size 20 if 10 wins. Cross any new value with the other axis; unbounded depth and leaf size 1 are limits."
+  },
+  "code_sha256": {
+    "preprocessing.py": "4988a3a92cbe4ffb459a7ac4a81089c3545b64e57ed246c035b4e30c3ac00a08",
+    "development_protocol.py": "3307db06fdf3d418d9d1788a3c691e4fa78ea5c6ed0213a392c9d667378a2737",
+    "feature_definitions.json": "725af29dc8f9385bebd8543879f7dbc194f9479016b396fa08898e4d96285c93",
+    "experiments/common.py": "cc688dcd52df5d8d034159f605bc792346eb41d0f8ef30f41292fc05d29bfb80",
+    "experiments/contract.json": "d7a9a859b745437a86d2ec1f3af1abbc82b863dbea498d9865d85b932713ac52",
+    "models/decision_tree.py": "f22be638ade5481e5e4ab3b67ac11795c3581c44645b0962fde2022543af780b",
+    "models/decision_tree_inference.py": "f0dbcf535273451a0732d469fd8f1cc9139c591f7063eed2491b9ca93d5cd7f6",
+    "models/random_forest_inference.py": "abe3d7f9437d5e7fdd8422f4c839276a9ef7aed3e61f13611cf0dca9e780d260",
+    "experiments/run_decision_tree.py": "632dc37633a920679d97aef08eddcfa8b32c583bf27678db321183a6490a057d"
+  },
+  "final_model_selected": false,
+  "full_data_refit_performed": false,
+  "limitation": "Preliminary exploration informed keyword definitions before an untouched local test group could be verified; earlier feature design may make evaluation estimates optimistic.",
+  "finished_at_utc": "2026-11-23T20:44:11.075044+00:00",
+  "elapsed_seconds": 3.5922156248707324,
+  "oof_predictions_sha256": "49aae34859a575748be2304947dddbce79dc260720c51e8dd54c6f6e60b7021d",
+  "summary_sha256": "18447900eed2cf12ca17fe7c18448c67e220663d34a282e7198f29f7a4aa2cf9"
+}

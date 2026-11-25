@@ -1,0 +1,1502 @@
+[
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7843452843452844,
+    "std_validation_accuracy": 0.03646663374757018,
+    "mean_validation_macro_f1": 0.7849089750585719,
+    "mean_train_accuracy": 0.7930782479169576
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7843452843452844,
+    "std_validation_accuracy": 0.03646663374757018,
+    "mean_validation_macro_f1": 0.7849089750585719,
+    "mean_train_accuracy": 0.7930782479169576
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7843452843452844,
+    "std_validation_accuracy": 0.03646663374757018,
+    "mean_validation_macro_f1": 0.7849089750585719,
+    "mean_train_accuracy": 0.7930782479169576
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7843452843452844,
+    "std_validation_accuracy": 0.03646663374757018,
+    "mean_validation_macro_f1": 0.7849089750585719,
+    "mean_train_accuracy": 0.7930782479169576
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8275243275243276,
+    "std_validation_accuracy": 0.030762771769548117,
+    "mean_validation_macro_f1": 0.8268020236896777,
+    "mean_train_accuracy": 0.8814411395056556
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8275243275243276,
+    "std_validation_accuracy": 0.030762771769548117,
+    "mean_validation_macro_f1": 0.8268020236896777,
+    "mean_train_accuracy": 0.8792906018712471
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8231398231398233,
+    "std_validation_accuracy": 0.039228188853171135,
+    "mean_validation_macro_f1": 0.8227441936843226,
+    "mean_train_accuracy": 0.8634780989619699
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8232508232508232,
+    "std_validation_accuracy": 0.020119618550004797,
+    "mean_validation_macro_f1": 0.8212655420007314,
+    "mean_train_accuracy": 0.8519899455383326
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8476893476893476,
+    "std_validation_accuracy": 0.023927304868732346,
+    "mean_validation_macro_f1": 0.847288128682941,
+    "mean_train_accuracy": 0.979174230787134
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8476523476523475,
+    "std_validation_accuracy": 0.029797948269714034,
+    "mean_validation_macro_f1": 0.8475133729509142,
+    "mean_train_accuracy": 0.9561793045664014
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8591593591593591,
+    "std_validation_accuracy": 0.02488645840454208,
+    "mean_validation_macro_f1": 0.8598331726362004,
+    "mean_train_accuracy": 0.9037099101615231
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8261183261183263,
+    "std_validation_accuracy": 0.04373865675678981,
+    "mean_validation_macro_f1": 0.8255122344432898,
+    "mean_train_accuracy": 0.8714146068984778
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.839142339142339,
+    "std_validation_accuracy": 0.023109781486925995,
+    "mean_validation_macro_f1": 0.8391931266999073,
+    "mean_train_accuracy": 0.9942559232881814
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8447848447848448,
+    "std_validation_accuracy": 0.02735681751940787,
+    "mean_validation_macro_f1": 0.844506183275873,
+    "mean_train_accuracy": 0.9612065354000837
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8591593591593591,
+    "std_validation_accuracy": 0.02488645840454208,
+    "mean_validation_macro_f1": 0.8598331726362004,
+    "mean_train_accuracy": 0.9037099101615231
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8261183261183263,
+    "std_validation_accuracy": 0.04373865675678981,
+    "mean_validation_macro_f1": 0.8255122344432898,
+    "mean_train_accuracy": 0.8714146068984778
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.839142339142339,
+    "std_validation_accuracy": 0.023109781486925995,
+    "mean_validation_macro_f1": 0.8391931266999073,
+    "mean_train_accuracy": 0.9942559232881814
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8447848447848448,
+    "std_validation_accuracy": 0.02735681751940787,
+    "mean_validation_macro_f1": 0.844506183275873,
+    "mean_train_accuracy": 0.9612065354000837
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8591593591593591,
+    "std_validation_accuracy": 0.02488645840454208,
+    "mean_validation_macro_f1": 0.8598331726362004,
+    "mean_train_accuracy": 0.9037099101615231
+  },
+  {
+    "outer_fold": 0,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8261183261183263,
+    "std_validation_accuracy": 0.04373865675678981,
+    "mean_validation_macro_f1": 0.8255122344432898,
+    "mean_train_accuracy": 0.8714146068984778
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7800902800902801,
+    "std_validation_accuracy": 0.023919965908816967,
+    "mean_validation_macro_f1": 0.7798492900746395,
+    "mean_train_accuracy": 0.7780012102592747
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7800902800902801,
+    "std_validation_accuracy": 0.023919965908816967,
+    "mean_validation_macro_f1": 0.7798492900746395,
+    "mean_train_accuracy": 0.7780012102592747
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7800902800902801,
+    "std_validation_accuracy": 0.023919965908816967,
+    "mean_validation_macro_f1": 0.7798492900746395,
+    "mean_train_accuracy": 0.7780012102592747
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7800902800902801,
+    "std_validation_accuracy": 0.023919965908816967,
+    "mean_validation_macro_f1": 0.7798492900746395,
+    "mean_train_accuracy": 0.7780012102592747
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.839142339142339,
+    "std_validation_accuracy": 0.012619684257646974,
+    "mean_validation_macro_f1": 0.8396612243459893,
+    "mean_train_accuracy": 0.8670809477261091
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.839142339142339,
+    "std_validation_accuracy": 0.0140262962938824,
+    "mean_validation_macro_f1": 0.8395836079384806,
+    "mean_train_accuracy": 0.8627752176139273
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8348133348133349,
+    "std_validation_accuracy": 0.019371374583387994,
+    "mean_validation_macro_f1": 0.8352303626346003,
+    "mean_train_accuracy": 0.8577433319368803
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.829041329041329,
+    "std_validation_accuracy": 0.02623411559795664,
+    "mean_validation_macro_f1": 0.8293474064820517,
+    "mean_train_accuracy": 0.8476888702695153
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8447478447478448,
+    "std_validation_accuracy": 0.016021485991498118,
+    "mean_validation_macro_f1": 0.8446140930586021,
+    "mean_train_accuracy": 0.9813247684215426
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.836163836163836,
+    "std_validation_accuracy": 0.012239744222103952,
+    "mean_validation_macro_f1": 0.836320499448016,
+    "mean_train_accuracy": 0.9461388074291301
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8319458319458319,
+    "std_validation_accuracy": 0.01809982663472556,
+    "mean_validation_macro_f1": 0.831897117715077,
+    "mean_train_accuracy": 0.911637108411302
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8418803418803419,
+    "std_validation_accuracy": 0.024467216934886772,
+    "mean_validation_macro_f1": 0.8420603689700278,
+    "mean_train_accuracy": 0.8757343015407532
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.839031339031339,
+    "std_validation_accuracy": 0.011813866148925474,
+    "mean_validation_macro_f1": 0.8387753215042322,
+    "mean_train_accuracy": 0.9942559232881814
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8361638361638363,
+    "std_validation_accuracy": 0.009674218479076895,
+    "mean_validation_macro_f1": 0.8356984572408123,
+    "mean_train_accuracy": 0.951161383419448
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8319458319458319,
+    "std_validation_accuracy": 0.01809982663472556,
+    "mean_validation_macro_f1": 0.831897117715077,
+    "mean_train_accuracy": 0.911637108411302
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8418803418803419,
+    "std_validation_accuracy": 0.024467216934886772,
+    "mean_validation_macro_f1": 0.8420603689700278,
+    "mean_train_accuracy": 0.8757343015407532
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.839031339031339,
+    "std_validation_accuracy": 0.011813866148925474,
+    "mean_validation_macro_f1": 0.8387753215042322,
+    "mean_train_accuracy": 0.9942559232881814
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8361638361638363,
+    "std_validation_accuracy": 0.009674218479076895,
+    "mean_validation_macro_f1": 0.8356984572408123,
+    "mean_train_accuracy": 0.951161383419448
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8319458319458319,
+    "std_validation_accuracy": 0.01809982663472556,
+    "mean_validation_macro_f1": 0.831897117715077,
+    "mean_train_accuracy": 0.911637108411302
+  },
+  {
+    "outer_fold": 1,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8418803418803419,
+    "std_validation_accuracy": 0.024467216934886772,
+    "mean_validation_macro_f1": 0.8420603689700278,
+    "mean_train_accuracy": 0.8757343015407532
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7787582787582789,
+    "std_validation_accuracy": 0.00792900088208135,
+    "mean_validation_macro_f1": 0.776170327424003,
+    "mean_train_accuracy": 0.7895684960201089
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7758722758722758,
+    "std_validation_accuracy": 0.011015094957126412,
+    "mean_validation_macro_f1": 0.7731913909046182,
+    "mean_train_accuracy": 0.7881348042638364
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7758722758722758,
+    "std_validation_accuracy": 0.011015094957126412,
+    "mean_validation_macro_f1": 0.7731913909046182,
+    "mean_train_accuracy": 0.7881348042638364
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7758722758722758,
+    "std_validation_accuracy": 0.011015094957126412,
+    "mean_validation_macro_f1": 0.7731913909046182,
+    "mean_train_accuracy": 0.7881348042638364
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8145743145743146,
+    "std_validation_accuracy": 0.02079875224444383,
+    "mean_validation_macro_f1": 0.8140880024756241,
+    "mean_train_accuracy": 0.8843830005120328
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8131313131313131,
+    "std_validation_accuracy": 0.0231443216916962,
+    "mean_validation_macro_f1": 0.812790727663918,
+    "mean_train_accuracy": 0.8815156169994879
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8101898101898102,
+    "std_validation_accuracy": 0.0356357035542371,
+    "mean_validation_macro_f1": 0.8098491641806933,
+    "mean_train_accuracy": 0.8743285388446679
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8088023088023087,
+    "std_validation_accuracy": 0.02489961605589814,
+    "mean_validation_macro_f1": 0.8082845489446729,
+    "mean_train_accuracy": 0.8628217660475724
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8390868390868391,
+    "std_validation_accuracy": 0.02600563070923259,
+    "mean_validation_macro_f1": 0.8391765193832464,
+    "mean_train_accuracy": 0.9784434203789042
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8217893217893218,
+    "std_validation_accuracy": 0.0181525910900565,
+    "mean_validation_macro_f1": 0.8221015588456217,
+    "mean_train_accuracy": 0.955453149001536
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8332408332408332,
+    "std_validation_accuracy": 0.031938212474993205,
+    "mean_validation_macro_f1": 0.8328788474028825,
+    "mean_train_accuracy": 0.9109109528464368
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.793021793021793,
+    "std_validation_accuracy": 0.01855041789921901,
+    "mean_validation_macro_f1": 0.7931369531261336,
+    "mean_train_accuracy": 0.8707117255504352
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.839105339105339,
+    "std_validation_accuracy": 0.04142821708500891,
+    "mean_validation_macro_f1": 0.8396258804104483,
+    "mean_train_accuracy": 0.9956849602010892
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8246568246568247,
+    "std_validation_accuracy": 0.02829182128908461,
+    "mean_validation_macro_f1": 0.8248521442830997,
+    "mean_train_accuracy": 0.959037378392217
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8332408332408332,
+    "std_validation_accuracy": 0.031938212474993205,
+    "mean_validation_macro_f1": 0.8328788474028825,
+    "mean_train_accuracy": 0.9109109528464368
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.793021793021793,
+    "std_validation_accuracy": 0.01855041789921901,
+    "mean_validation_macro_f1": 0.7931369531261336,
+    "mean_train_accuracy": 0.8707117255504352
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.839105339105339,
+    "std_validation_accuracy": 0.04142821708500891,
+    "mean_validation_macro_f1": 0.8396258804104483,
+    "mean_train_accuracy": 0.9956849602010892
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8246568246568247,
+    "std_validation_accuracy": 0.02829182128908461,
+    "mean_validation_macro_f1": 0.8248521442830997,
+    "mean_train_accuracy": 0.959037378392217
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8332408332408332,
+    "std_validation_accuracy": 0.031938212474993205,
+    "mean_validation_macro_f1": 0.8328788474028825,
+    "mean_train_accuracy": 0.9109109528464368
+  },
+  {
+    "outer_fold": 2,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.793021793021793,
+    "std_validation_accuracy": 0.01855041789921901,
+    "mean_validation_macro_f1": 0.7931369531261336,
+    "mean_train_accuracy": 0.8707117255504352
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7628852628852628,
+    "std_validation_accuracy": 0.012630663237421428,
+    "mean_validation_macro_f1": 0.762112289360933,
+    "mean_train_accuracy": 0.7786947819205884
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7628852628852628,
+    "std_validation_accuracy": 0.012630663237421428,
+    "mean_validation_macro_f1": 0.762112289360933,
+    "mean_train_accuracy": 0.7786947819205884
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7628852628852628,
+    "std_validation_accuracy": 0.012630663237421428,
+    "mean_validation_macro_f1": 0.762112289360933,
+    "mean_train_accuracy": 0.7786947819205884
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7628852628852628,
+    "std_validation_accuracy": 0.012630663237421428,
+    "mean_validation_macro_f1": 0.762112289360933,
+    "mean_train_accuracy": 0.7786947819205884
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8160358160358161,
+    "std_validation_accuracy": 0.017201197422333434,
+    "mean_validation_macro_f1": 0.8154637718660608,
+    "mean_train_accuracy": 0.8756924079504724
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8203278203278203,
+    "std_validation_accuracy": 0.018467540959743345,
+    "mean_validation_macro_f1": 0.8196206227634534,
+    "mean_train_accuracy": 0.8706605222734255
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8159988159988161,
+    "std_validation_accuracy": 0.018713095638069773,
+    "mean_validation_macro_f1": 0.8155881960123891,
+    "mean_train_accuracy": 0.8606200251361541
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.816017316017316,
+    "std_validation_accuracy": 0.015151515151515154,
+    "mean_validation_macro_f1": 0.815017882631495,
+    "mean_train_accuracy": 0.8513149932504772
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8447478447478448,
+    "std_validation_accuracy": 0.016596032413089233,
+    "mean_validation_macro_f1": 0.8445743494436079,
+    "mean_train_accuracy": 0.9805939580133128
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8404928404928406,
+    "std_validation_accuracy": 0.005359133179963718,
+    "mean_validation_macro_f1": 0.8400722046845565,
+    "mean_train_accuracy": 0.9554484941581715
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8174233174233173,
+    "std_validation_accuracy": 0.03351506466155175,
+    "mean_validation_macro_f1": 0.817532721879505,
+    "mean_train_accuracy": 0.906614532420984
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8174048174048174,
+    "std_validation_accuracy": 0.02714786789073359,
+    "mean_validation_macro_f1": 0.8172158150679625,
+    "mean_train_accuracy": 0.8757668854443047
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8390498390498391,
+    "std_validation_accuracy": 0.022502380978771844,
+    "mean_validation_macro_f1": 0.8387950844677681,
+    "mean_train_accuracy": 0.9942466136014523
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8433603433603434,
+    "std_validation_accuracy": 0.007496480517174958,
+    "mean_validation_macro_f1": 0.8425969048558629,
+    "mean_train_accuracy": 0.9590420332355816
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8174233174233173,
+    "std_validation_accuracy": 0.03351506466155175,
+    "mean_validation_macro_f1": 0.817532721879505,
+    "mean_train_accuracy": 0.906614532420984
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8174048174048174,
+    "std_validation_accuracy": 0.02714786789073359,
+    "mean_validation_macro_f1": 0.8172158150679625,
+    "mean_train_accuracy": 0.8757668854443047
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8390498390498391,
+    "std_validation_accuracy": 0.022502380978771844,
+    "mean_validation_macro_f1": 0.8387950844677681,
+    "mean_train_accuracy": 0.9942466136014523
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8433603433603434,
+    "std_validation_accuracy": 0.007496480517174958,
+    "mean_validation_macro_f1": 0.8425969048558629,
+    "mean_train_accuracy": 0.9590420332355816
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8174233174233173,
+    "std_validation_accuracy": 0.03351506466155175,
+    "mean_validation_macro_f1": 0.817532721879505,
+    "mean_train_accuracy": 0.906614532420984
+  },
+  {
+    "outer_fold": 3,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8174048174048174,
+    "std_validation_accuracy": 0.02714786789073359,
+    "mean_validation_macro_f1": 0.8172158150679625,
+    "mean_train_accuracy": 0.8757668854443047
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7860472860472859,
+    "std_validation_accuracy": 0.03357487313889788,
+    "mean_validation_macro_f1": 0.7855256020850456,
+    "mean_train_accuracy": 0.8074477493832332
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7860472860472859,
+    "std_validation_accuracy": 0.03357487313889788,
+    "mean_validation_macro_f1": 0.7855256020850456,
+    "mean_train_accuracy": 0.8074477493832332
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7860472860472859,
+    "std_validation_accuracy": 0.03357487313889788,
+    "mean_validation_macro_f1": 0.7855256020850456,
+    "mean_train_accuracy": 0.8074477493832332
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":3,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.7860472860472859,
+    "std_validation_accuracy": 0.03357487313889788,
+    "mean_validation_macro_f1": 0.7855256020850456,
+    "mean_train_accuracy": 0.8074477493832332
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8478003478003479,
+    "std_validation_accuracy": 0.03105040040810692,
+    "mean_validation_macro_f1": 0.8479594000933542,
+    "mean_train_accuracy": 0.8829027603221151
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8463573463573463,
+    "std_validation_accuracy": 0.028591759140118758,
+    "mean_validation_macro_f1": 0.8464757991749838,
+    "mean_train_accuracy": 0.880747567844342
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8377178377178378,
+    "std_validation_accuracy": 0.039698798256214106,
+    "mean_validation_macro_f1": 0.8381019032723492,
+    "mean_train_accuracy": 0.8728529534981148
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":5,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8362748362748363,
+    "std_validation_accuracy": 0.033235590880980284,
+    "mean_validation_macro_f1": 0.8359586379653549,
+    "mean_train_accuracy": 0.8584974165619327
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8564213564213565,
+    "std_validation_accuracy": 0.021022802719095908,
+    "mean_validation_macro_f1": 0.8562023465319135,
+    "mean_train_accuracy": 0.9741283805799935
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8462463462463462,
+    "std_validation_accuracy": 0.0036208558340785884,
+    "mean_validation_macro_f1": 0.8457204882586455,
+    "mean_train_accuracy": 0.9468463436205372
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8418988418988418,
+    "std_validation_accuracy": 0.028241258366732712,
+    "mean_validation_macro_f1": 0.8415206878652649,
+    "mean_train_accuracy": 0.9138109202625332
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":10,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8334073334073334,
+    "std_validation_accuracy": 0.028070429888893394,
+    "mean_validation_macro_f1": 0.8332774368306642,
+    "mean_train_accuracy": 0.876474421635712
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.841972841972842,
+    "std_validation_accuracy": 0.0219727890265763,
+    "mean_validation_macro_f1": 0.8419661453737244,
+    "mean_train_accuracy": 0.9985663082437276
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8348133348133349,
+    "std_validation_accuracy": 0.009702884933969787,
+    "mean_validation_macro_f1": 0.8345361009957939,
+    "mean_train_accuracy": 0.9619373458083135
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8418988418988418,
+    "std_validation_accuracy": 0.028241258366732712,
+    "mean_validation_macro_f1": 0.8417253144894873,
+    "mean_train_accuracy": 0.9159707675836709
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":20,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8334073334073334,
+    "std_validation_accuracy": 0.028070429888893394,
+    "mean_validation_macro_f1": 0.8332774368306642,
+    "mean_train_accuracy": 0.876474421635712
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":1}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.841972841972842,
+    "std_validation_accuracy": 0.0219727890265763,
+    "mean_validation_macro_f1": 0.8419661453737244,
+    "mean_train_accuracy": 0.9985663082437276
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":2}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8348133348133349,
+    "std_validation_accuracy": 0.009702884933969787,
+    "mean_validation_macro_f1": 0.8345361009957939,
+    "mean_train_accuracy": 0.9619373458083135
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":5}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8418988418988418,
+    "std_validation_accuracy": 0.028241258366732712,
+    "mean_validation_macro_f1": 0.8417253144894873,
+    "mean_train_accuracy": 0.9159707675836709
+  },
+  {
+    "outer_fold": 4,
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "candidate_id": "{\"max_depth\":null,\"min_samples_leaf\":10}",
+    "eligible": true,
+    "completed_inner_folds": 3,
+    "mean_validation_accuracy": 0.8334073334073334,
+    "std_validation_accuracy": 0.028070429888893394,
+    "mean_validation_macro_f1": 0.8332774368306642,
+    "mean_train_accuracy": 0.876474421635712
+  }
+]

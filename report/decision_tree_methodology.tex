@@ -1,0 +1,13 @@
+\paragraph{Decision tree.}
+A single classification tree can represent interactions among survey answers. For example,
+the same colour flag can lead to different predictions depending on whether the respondent
+also selected an indoor venue. We used scikit-learn's best-split Gini tree with seed 67
+and all 73 unscaled predictors. Each split maximizes the reduction in weighted Gini impurity.
+We varied maximum depth (3, 5, 10, 20 or unlimited) and minimum samples per leaf
+(1, 2, 5 or 10). Depth limits the number of successive decisions, while a larger minimum
+leaf size requires more training evidence per prediction.
+
+We selected each outer fold's setting by mean accuracy on its three inner respondent folds.
+Ties within $10^{-12}$ favoured shallower trees, then larger leaves. The one-step expansion
+rule added depth 2 if depth 3 won, or leaf size 20 if size 10 won, crossing new values with
+the other parameter. A leaf size of 1 and unlimited depth are natural endpoints.

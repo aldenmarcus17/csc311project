@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "model_family": "decision_tree",
+  "evaluation": "recorded nested respondent-grouped development CV",
+  "class_order": [
+    "Baseball",
+    "Basketball",
+    "Soccer"
+  ],
+  "respondents": 290,
+  "rows": 870,
+  "oof_metrics": {
+    "rows": 870,
+    "accuracy": 0.8574712643678161,
+    "macro_f1": 0.8574342154664034,
+    "log_loss": 3.7879770345589074,
+    "per_class": {
+      "Baseball": {
+        "precision": 0.8321917808219178,
+        "recall": 0.8379310344827586,
+        "f1": 0.8350515463917526,
+        "support": 290
+      },
+      "Basketball": {
+        "precision": 0.8805460750853242,
+        "recall": 0.8896551724137931,
+        "f1": 0.8850771869639794,
+        "support": 290
+      },
+      "Soccer": {
+        "precision": 0.8596491228070176,
+        "recall": 0.8448275862068966,
+        "f1": 0.8521739130434782,
+        "support": 290
+      }
+    },
+    "confusion_matrix": [
+      [
+        243,
+        19,
+        28
+      ],
+      [
+        20,
+        258,
+        12
+      ],
+      [
+        29,
+        16,
+        245
+      ]
+    ]
+  },
+  "mean_outer_accuracy": 0.8574712643678162,
+  "sample_std_outer_accuracy": 0.015421158465515786,
+  "mean_outer_macro_f1": 0.8572089402127359,
+  "mean_training_accuracy": 0.9666666666666666,
+  "outer_fold_accuracies": [
+    0.8333333333333334,
+    0.867816091954023,
+    0.8563218390804598,
+    0.8735632183908046,
+    0.8563218390804598
+  ],
+  "selected_parameters_by_fold": [
+    {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    }
+  ],
+  "initial_search_fits": 300,
+  "expansion_search_fits": 0,
+  "fit_attempts": 305,
+  "outer_refits": 5,
+  "unresolved_inner_failures": 0,
+  "convergence_retries": 0,
+  "export_parity": [
+    {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 0.0,
+      "rows": 174
+    },
+    {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 0.0,
+      "rows": 174
+    },
+    {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 0.0,
+      "rows": 174
+    },
+    {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 0.0,
+      "rows": 174
+    },
+    {
+      "checked": true,
+      "identical_labels": true,
+      "max_absolute_probability_difference": 0.0,
+      "rows": 174
+    }
+  ],
+  "final_model_selected": false,
+  "full_data_refit_performed": false,
+  "limitation": "Preliminary exploration informed keyword definitions before an untouched local test group could be verified; earlier feature design may make evaluation estimates optimistic."
+}

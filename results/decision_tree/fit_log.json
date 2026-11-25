@@ -1,0 +1,4872 @@
+[
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 0,
+    "phase": "outer_refit",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 1,
+    "phase": "outer_refit",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 2,
+    "phase": "outer_refit",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 3,
+    "phase": "outer_refit",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 3,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 5,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": 20,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 2
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 5
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 0,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 1,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "inner_fold": 2,
+    "phase": "inner_search",
+    "stage": "initial",
+    "parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 10
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  },
+  {
+    "model": "decision_tree",
+    "outer_fold": 4,
+    "phase": "outer_refit",
+    "parameters": {
+      "max_depth": 10,
+      "min_samples_leaf": 1
+    },
+    "attempt": 1,
+    "max_iter": null,
+    "status": "ok",
+    "warnings": [],
+    "iterations": []
+  }
+]
